@@ -1,6 +1,6 @@
 # Site
-name: "Oracle Magazine"
-description: "The official magazine of Park Lane International School"
+name: "The Oracle"
+description: "Park Lane International School's official student magazine."
 logo: "assets/images/logo.png"
 favicon: "assets/images/favicon.ico"
 baseurl: ""
