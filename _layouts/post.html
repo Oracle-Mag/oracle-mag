@@ -11,7 +11,7 @@ layout: default
           <p class="text-uppercase font-weight-bold">
             <span class="catlist">
               {% for category in page.categories %}
-              <a class="sscroll text-danger" href="{{site.baseurl}}/categories.html#{{ category | downcase }}">{{
+              <a class="sscroll text-danger" href="{{site.baseurl}}/categories#{{ category | downcase }}">{{
                 category | downcase }}</a><span class="sep">, </span>
               {% endfor %}
             </span>
@@ -80,7 +80,7 @@ layout: default
         <span class="taglist">
           {% for tag in page.tags %}
           <a class="sscroll btn btn-light btn-sm font-weight-bold"
-            href="{{site.baseurl}}/tags.html#{{ tag | downcase }}">{{ tag | downcase }}</a>
+            href="{{site.baseurl}}/tags#{{ tag | downcase }}">{{ tag | downcase }}</a>
           {% endfor %}
         </span>
       </div>
