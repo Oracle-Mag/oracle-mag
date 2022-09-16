@@ -7,15 +7,15 @@ Source code for the [website](https://wowthemesnet.github.io/mundana-theme-jekyl
 [Documentation](https://bootstrapstarter.com/mundana-theme-jekyll/) for how to create pages and run locally.
 
 ### TODO
-- [ ] Cover page with the magazine’s name, logo, and purpose (school publication)
-    - [ ] This will include the editor's note
+- [x] Cover page with the magazine’s name, logo, and purpose (school publication)
+    - [x] This will include the editor's note
 - [ ] Link to Disqus
 - [ ] Link to Formspree
-    - [ ] Update page to ask for recommendations + letters from readers
+    - [x] Update page to ask for recommendations + letters from readers
 - [x] Page listing the authors and their works
     - [ ] Includes short bios of all authors
     - [ ] Includes photographs of each author (we will have these made at the start of the year)
-- [ ] Pages for different themes in the magazine, under which all the articles of that category from all previous publications can be found
+- [x] Pages for different categories in the magazine, under which all the articles of that category from all previous publications can be found ~> just click on category
 - [x] Categories  // done by default with Jekyll
     - [x] Entertainment
     - [x] Advice and recommendations 
@@ -24,3 +24,5 @@ Source code for the [website](https://wowthemesnet.github.io/mundana-theme-jekyl
 - [ ] Page about what we will be writing about in the future + next release date
 - [x] A place where viewers can leave comments, or enable them to leave comments on each article 
 - [ ] Include magazine social media links + email on one page (probably contact?)
+- [ ] Image of magazine to use for landing page
+- [ ] Add in all articles to articles database
