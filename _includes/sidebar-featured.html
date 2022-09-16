@@ -1,4 +1,4 @@
-<div class="sticky-top sticky-top-offset">
+<div class="sticky-top sticky-top-offset" data-aos="fade-left" data-aos-delay="200" data-aos-once="true">
     <h4 class="font-weight-bold spanborder"><span>Featured</span></h4>  
     <ol class="list-featured">				
         {% for post in site.tags.featured %}                
@@ -10,7 +10,7 @@
                 <span class="d-block text-muted">
                     In <span class="catlist">
                     {% for category in post.categories %}
-                    <a class="text-capitalize text-muted smoothscroll" href="{{site.baseurl}}/categories#{{ category | downcase }}">{{ category }}</a><span class="sep">, </span>
+                    <a class="text-capitalize text-muted smoothscroll category-note" href="{{site.baseurl}}/categories#{{ category | downcase }}">{{ category }}</a><span class="sep">, </span>
                     {% endfor %}
                     </span>
                 </span>

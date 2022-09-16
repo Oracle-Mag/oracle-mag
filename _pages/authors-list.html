@@ -19,7 +19,8 @@ permalink: "/team"
               src="{{site.baseurl}}{{ author[1].avatar }}" class="rounded-circle" height="80" width="80"></div>
           <div class="col-md-9">
               {% if author[1].is_writer == true %}<a href="{{site.baseurl}}/author-{{ author[1].name | slugify }}">{% endif %}
-              <h4 class="text-dark mb-0" style="font-weight: 400"> {{ author[1].name }} — {{ author[1].role }} </h4>
+                <h4 class="text-dark" style="font-weight: 400;"> {{ author[1].name }} </h4>
+                <h6 style="font-weight: normal; color: gray"> {{ author[1].role }} </h6>
               <div class="excerpt">{{ author[1].bio }}</div>
             </a>
           </div>
@@ -42,7 +43,8 @@ permalink: "/team"
               src="{{site.baseurl}}{{ member[1].avatar }}" class="rounded-circle" height="80" width="80"></div>
           <div class="col-md-9">
             {% if author[1].is_writer == true %}<a href="{{site.baseurl}}/member-{{ member[1].name | slugify }}">{% endif %}
-              <h4 class="text-dark mb-0" style="font-weight: 400"> {{ member[1].name }} — {{ member[1].role }} </h4>
+              <h4 class="text-dark" style="font-weight: 400;"> {{ member[1].name }} </h4>
+              <h6 style="font-weight: normal; color: gray"> {{ member[1].role }} </h6>
               <div class="excerpt">{{ member[1].bio }}</div>
             </a>
           </div>

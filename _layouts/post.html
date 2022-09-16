@@ -29,8 +29,11 @@ layout: default
         </div>
         {% if page.image %}
         <div class="col-md-6 pr-0 align-self-center">
-          <img class="rounded" src="{% if page.image contains " ://" %}{{ page.image }}{% else %}{{ site.baseurl }}/{{
+          <!-- beautify ignore:start -->
+          <!-- the "://" is required *exactly* -->
+          <img class="rounded" src="{% if page.image contains "://" %}{{ page.image }}{% else %}{{ site.baseurl }}/{{
             page.image }}{% endif %}" alt="{{ page.title }}">
+            <!-- beautify ignore:end -->
         </div>
         {% endif %}
       </div>
@@ -152,10 +155,13 @@ layout: default
     <div class="row prevnextlinks small font-weight-bold">
       {% if page.previous.url %}
       <div class="col-md-6 rightborder pl-0">
+        <!-- beautify ignore:start -->
+         <!-- the "://" is required *exactly* -->
         <a class="text-dark" href="{{ site.baseurl }}{{ page.previous.url }}">{% if page.previous.image %} <img
-            height="30px" class="mr-1" src="{% if page.previous.image contains " ://" %}{{ page.previous.image }}{% else
+            height="30px" class="mr-1" src="{% if page.previous.image contains "://" %}{{ page.previous.image }}{% else
             %}{{ page.previous.image | absolute_url }}{% endif %}"> {% endif %}
           {{page.previous.title}}</a>
+        <!-- beautify ignore:end -->
       </div>
       {% endif %}
       {% if page.next.url %}

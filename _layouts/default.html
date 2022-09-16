@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <link rel="stylesheet" href={{ "css/theme.min.css" | relative_url }}>
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/landingtheme.min.css">
     <title>{{page.title}} | {{site.name}}</title>
 
     {% seo %}
@@ -34,7 +34,7 @@
     <style>
       @font-face {
         font-family: 'MsMadi';
-        src: url("/fonts/MsMadi-Regular.ttf") format("truetype");
+        src: url("/assets/fonts/MsMadi-Regular.ttf") format("truetype");
       }
     </style>
 
@@ -90,12 +90,12 @@
         <div class="row align-items-center justify-content-between grid grid-rows-2"
           style="display: grid; grid-template-columns: repeat(2, 1fr); justify-content: end; ">
           <div>
-            <span>Powered by <a target="_blank" href="https://jekyllrb.com/">Jekyll</a> and <a target="_blank"
+            <span>Powered by <a class="text-dark greenish-link" target="_blank" href="https://jekyllrb.com/">Jekyll</a> and <a target="_blank"
                 href="https://github.com/wowthemesnet/mundana-theme-jekyll">Mundana</a>
             </span>
           </div>
           <div style="text-align: end;">
-            Made with <i class="fa fa-heart text-danger"></i> by <a href="https://www.simonilincev.com"
+            Made with <i class="fa fa-heart text-danger"></i> by <a class="text-dark greenish-link" href="https://www.simonilincev.com"
               target="_blank">Simon Ilincev</a> in Prague
           </div>
         </div>
@@ -104,8 +104,8 @@
     {% include tracking-footer.html %}
 
 
-  <script src="{{ site.base_url}}/js/bootstrap.bundle.min.js"></script>
-  <script src="{{ site.base_url}}/js/aos.js"></script>
+  <script src="{{ site.base_url}}/assets/js/bootstrap.bundle.min.js"></script>
+  <script src="{{ site.base_url}}/assets/js/aos.js"></script>
   <script>
     AOS.init({
       duration: 800, // values from 0 to 3000, with step 50ms
