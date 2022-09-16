@@ -21,8 +21,17 @@ Source code for the [website](https://wowthemesnet.github.io/mundana-theme-jekyl
     - [x] Advice and recommendations 
     - [x] Current affairs 
 - [ ] Page with the actual PDF versions of the previous issues 
-- [ ] Page about what we will be writing about in the future + next release date
+- [x] Page about what we will be writing about in the future + next release date
 - [x] A place where viewers can leave comments, or enable them to leave comments on each article 
-- [ ] Include magazine social media links + email on one page (probably contact?)
-- [ ] Image of magazine to use for landing page
+- [x] Include magazine social media links + email on one page (probably contact?)
+- [ ] Create image of magazine to use for landing page
 - [ ] Add in all articles to articles database
+- [x] Add date sorting for articles
+- [ ] Write documentation for future maintainers
+
+
+#### Non-essential Extension Ideas
+- [ ] Find and use a favicon that better matches the dark green
+- [ ] Implement dark and light mode (harder)
+- [ ] Add a countdown timer for the /future page, counting down to the next release date
+- [ ] Make the search bar a bit wider
