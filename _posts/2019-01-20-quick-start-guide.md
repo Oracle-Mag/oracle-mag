@@ -2,7 +2,7 @@
 layout: post
 title:  "Quick Start Guide"
 author: sal
-categories: [ Jekyll, tutorial ]
+categories: [ current affairs, advice ]
 image: assets/images/12.jpg
 ---
 
