@@ -28,7 +28,7 @@ layout: default
           </div>
         </div>
         {% if page.image %}
-        <div class="col-md-6 pr-0 align-self-center">
+        <div class="col-md-6 pr-0 align-self-center" data-aos="zoom-out">
           <!-- beautify ignore:start -->
           <!-- the "://" is required *exactly* -->
           <img class="rounded" src="{% if page.image contains "://" %}{{ page.image }}{% else %}{{ site.baseurl }}/{{
@@ -129,7 +129,7 @@ layout: default
           {% endif %}
         </div>
         <div class="col-md-10">
-          <h5 class="font-weight-bold">Written by {{ author.name }}</h5>
+          <h5 class="font-weight-bold">Written by&nbsp;<a href="{{site.baseurl}}/author-{{ author.name | slugify }}" class="greenish-link text-dark">{{ author.name }}</a></h5>
           {{ author.bio }}
         </div>
       </div>
