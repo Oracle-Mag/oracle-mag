@@ -22,7 +22,7 @@ permalink: "/author-sal-norbertov.html"
       {% assign i = 0 %}
       {% for post in posts %}
       {% assign moduloval = i | modulo:2 %}
-      <div data-aos="{% if moduloval == 0 %}fade-right{% else %}fade-left{% endif %}" data-aos-delay="200" data-aos-offset="-50">
+      <div data-aos="{% if moduloval == 0 %}fade-right{% else %}fade-left{% endif %}" data-aos-delay="200" data-aos-offset="0">
         {% include main-loop-card.html %}
       </div>
       {% assign i = i | plus: 1 %}
