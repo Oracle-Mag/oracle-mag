@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "What is Jekyll"
-author: jane
+author: janecastle
 categories: [ advice ]
 image: assets/images/11.jpg
 ---

@@ -12,67 +12,138 @@ include: ["_pages"]
 permalink: /:title/
 
 # Plugins
-plugins: 
+plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-seo-tag
-  
-authors:
-    sal:
-      name:           Sal
-      site:           https://www.wowthemes.net
-      avatar:         /assets/images/avatar1.jpg
-      bio:            "Hi, I am Sal, the author of Mundana, the theme you're currently previewing. I hope you like it!"
-      email:          wowthemesnet@gmail.com
-      is_writer:      true
-      role:           Founder
 
-    jane:
-      name:           Jane
-      site:           https://www.wowthemes.net
-      avatar:         /assets/images/avatar2.jpg
-      bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
-      email:          fakemail@gmail.com
-      is_writer:      true
-      role:           Writer
+authors:
+  salnorbertov:
+    name: Sal Norbertov
+    site: https://www.wowthemes.net
+    avatar: /assets/images/avatar1.jpg
+    bio: "Hi, I am Sal, the author of Mundana, the theme you're currently previewing. I hope you like it!"
+    email: wowthemesnet@gmail.com
+    is_writer: true
+    role: Founder
+
+  janecastle:
+    name: Jane Castle
+    site: https://www.wowthemes.net
+    avatar: /assets/images/avatar2.jpg
+    bio: "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
+    email: fakemail@gmail.com
+    is_writer: true
+    role: Writer
+
+  jeffnessie:
+    name: Jeff Nessie
+    site: https://www.wowthemes.net
+    avatar: /assets/images/avatar1.jpg
+    bio: "Hi, I am Simon and built this site!"
+    email: wowthemesnet@gmail.com
+    is_writer: false
+    role: Technical Lead
+
+  sallyuvoz:
+    name: Sally Uvoz
+    site: https://www.wowthemes.net
+    avatar: /assets/images/avatar2.jpg
+    bio: "Making sure everything runs smoothly and our site looks clean!"
+    email: fakemail@gmail.com
+    is_writer: false
+    role: Designer
+
+  gregstrong:
+    name: Greg Strong
+    site: https://www.wowthemes.net
+    avatar: /assets/images/avatar1.jpg
+    bio: "Hi, I am Simon and built this site!"
+    email: wowthemesnet@gmail.com
+    is_writer: false
+    role: Technical Lead
+
+  anitasmith:
+    name: Anita Smith
+    site: https://www.wowthemes.net
+    avatar: /assets/images/avatar2.jpg
+    bio: "Making sure everything runs smoothly and our site looks clean!"
+    email: fakemail@gmail.com
+    is_writer: false
+    role: Designer
+
+  aliceeckert:
+    name: Alice Eckert
+    site: https://www.wowthemes.net
+    avatar: /assets/images/avatar1.jpg
+    bio: "Hi, I am Simon and built this site!"
+    email: wowthemesnet@gmail.com
+    is_writer: false
+    role: Technical Lead
+
+  jordanklarov:
+    name: Jordan Klarov
+    site: https://www.wowthemes.net
+    avatar: /assets/images/avatar2.jpg
+    bio: "Making sure everything runs smoothly and our site looks clean!"
+    email: fakemail@gmail.com
+    is_writer: false
+    role: Designer
+
+  josevaldstejn:
+    name: Jose Valdstejn
+    site: https://www.wowthemes.net
+    avatar: /assets/images/avatar1.jpg
+    bio: "Hi, I am Simon and built this site!"
+    email: wowthemesnet@gmail.com
+    is_writer: false
+    role: Technical Lead
+
+  alexishent:
+    name: Alexis Hent
+    site: https://www.wowthemes.net
+    avatar: /assets/images/avatar2.jpg
+    bio: "Making sure everything runs smoothly and our site looks clean!"
+    email: fakemail@gmail.com
+    is_writer: false
+    role: Designer
 
 other_team_members:
-    simon:
-      name:           Simon
-      site:           https://www.wowthemes.net
-      avatar:         /assets/images/avatar1.jpg
-      bio:            "Hi, I am Simon and built this site!"
-      email:          wowthemesnet@gmail.com
-      is_writer:      false
-      role:           Technical Lead
+  simonking:
+    name: Simon King
+    site: https://www.wowthemes.net
+    avatar: /assets/images/avatar1.jpg
+    bio: "Hi, I am Simon and built this site!"
+    email: wowthemesnet@gmail.com
+    is_writer: false
+    role: Technical Lead
 
-    krystof:
-      name:           Krystof
-      site:           https://www.wowthemes.net
-      avatar:         /assets/images/avatar2.jpg
-      bio:            "Making sure everything runs smoothly and our site looks clean!"
-      email:          fakemail@gmail.com
-      is_writer:      false
-      role:           Designer
- 
+  krystofglad:
+    name: Krystof Glad
+    site: https://www.wowthemes.net
+    avatar: /assets/images/avatar2.jpg
+    bio: "Making sure everything runs smoothly and our site looks clean!"
+    email: fakemail@gmail.com
+    is_writer: false
+    role: Designer
+
 # Defaults
 defaults:
-
   # all posts
   - scope:
       path: "_posts"
     values:
       layout: post
-      author: sal
+      author: salnorbertov
       avatar: /assets/images/avatar1.jpg
-      
+
   # all pages
   - scope:
       path: "_pages"
     values:
       layout: page
-      
+
 # Syntax
 markdown: kramdown
 highlighter: rouge
@@ -81,6 +152,13 @@ highlighter: rouge
 paginate: 10
 paginate_path: "/articles/page:num/"
 
-
 # Exclude metadata and development time dependencies (like Grunt plugins)
-exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules]
+exclude:
+  [
+    README.markdown,
+    package.json,
+    grunt.js,
+    Gruntfile.js,
+    Gruntfile.coffee,
+    node_modules,
+  ]

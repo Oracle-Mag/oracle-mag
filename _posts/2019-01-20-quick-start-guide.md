@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Quick Start Guide"
-author: sal
+author: salnorbertov
 categories: [ current affairs, advice ]
 image: assets/images/12.jpg
 ---

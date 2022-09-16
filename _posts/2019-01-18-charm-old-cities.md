@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Could we reinvent the charm of old cities"
-author: jane
+title:  "Could we reinvent the charm of old cities?"
+author: janecastle
 categories: [ entertainment, advice ]
 image: assets/images/home.jpg
 tags: [sticky]
