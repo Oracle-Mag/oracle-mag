@@ -1,26 +1,32 @@
 ---
 title: "Sal"
 layout: default
-permalink: "/author-sal"
+permalink: "/author-sal.html"
 ---
 <div class="container">
-<div class="row justify-content-center">
-    <div class="col-md-8">        
-        <div class="row align-items-center mb-5">
-            <div class="col-md-9">
-                <h2 class="font-weight-bold">{{page.title}} <span class="small btn btn-outline-success btn-sm btn-round"><a href="{{ site.authors.sal.twitter }}">Follow</a></span></h2>
-                <p><a href="{{ site.authors.sal.site }}">{{ site.authors.sal.site }}</a></p>
-                <p class="excerpt">{{ site.authors.sal.bio }}</p>
-            </div>
-            <div class="col-md-3 text-right">
-                <img alt="{{ site.authors.sal.name }}" src="{{site.baseurl}}{{ site.authors.sal.avatar }}" class="rounded-circle" height="100" width="100">
-            </div>
+  <div class="row justify-content-center">
+    <div class="col-md-8">
+      <div class="row align-items-center mb-5">
+        <div class="col-md-9" data-aos="fade-left">
+          <h2 class="font-weight-bold">{{page.title}}</h2>
+          <p class="excerpt">{{ site.authors.jane.bio }}</p>
         </div>
-        <h4 class="font-weight-bold spanborder"><span>Posts by {{page.title}}</span></h4>
-            {% assign posts = site.posts | where:"author","sal" %}
-            {% for post in posts %}
-            {% include main-loop-card.html %}
-            {% endfor %}
+        <div class="col-md-3 text-right" data-aos="fade-right" data-aos-duration="250">
+          <img alt="{{ site.authors.jane.name }}" src="{{site.baseurl}}{{ site.authors.jane.avatar }}"
+            class="rounded-circle" height="100" width="100">
+        </div>
+      </div>
+      <h4 class="font-weight-bold spanborder" data-aos="fade-right" data-aos-delay="100"><span>Posts by {{page.title}}</span></h4>
+      {% assign posts = site.posts | where:"author","jane" %}
+      <!-- {% assign idx = 0 %} -->
+      {% assign i = 0 %}
+      {% for post in posts %}
+      {% assign moduloval = i | modulo:2 %}
+      <div data-aos="{% if moduloval == 0 %}fade-right{% else %}fade-left{% endif %}" data-aos-delay="200" data-aos-offset="-50">
+        {% include main-loop-card.html %}
+      </div>
+      {% assign i = i | plus: 1 %}
+      {% endfor %}
     </div>
-</div>
+  </div>
 </div>

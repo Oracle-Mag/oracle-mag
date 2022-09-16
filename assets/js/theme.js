@@ -1,7 +1,9 @@
  // alertbar later
     $(document).scroll(function () {
         var y = $(this).scrollTop();
-        if (y > 280) {
+        var bottomDifference = $(this).innerHeight() - y;
+        console.log("Here we have...", bottomDifference)
+        if (y > 280 && bottomDifference > 1400) {
             $('.alertbar').fadeIn();
         } else {
             $('.alertbar').fadeOut();
