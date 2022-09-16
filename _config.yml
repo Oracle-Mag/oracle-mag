@@ -25,7 +25,8 @@ authors:
       avatar:         /assets/images/avatar1.jpg
       bio:            "Hi, I am Sal, the author of Mundana, the theme you're currently previewing. I hope you like it!"
       email:          wowthemesnet@gmail.com
-      twitter:        https://twitter.com/wowthemesnet
+      is_writer:      true
+      role:           Founder
 
     jane:
       name:           Jane
@@ -33,7 +34,27 @@ authors:
       avatar:         /assets/images/avatar2.jpg
       bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
       email:          fakemail@gmail.com
-      twitter:        https://twitter.com/wowthemesnet
+      is_writer:      true
+      role:           Writer
+
+other_team_members:
+    simon:
+      name:           Simon
+      site:           https://www.wowthemes.net
+      avatar:         /assets/images/avatar1.jpg
+      bio:            "Hi, I am Simon and built this site!"
+      email:          wowthemesnet@gmail.com
+      is_writer:      false
+      role:           Technical Lead
+
+    krystof:
+      name:           Krystof
+      site:           https://www.wowthemes.net
+      avatar:         /assets/images/avatar2.jpg
+      bio:            "Making sure everything runs smoothly and our site looks clean!"
+      email:          fakemail@gmail.com
+      is_writer:      false
+      role:           Designer
  
 # Defaults
 defaults:
