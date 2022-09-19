@@ -9,8 +9,8 @@ Source code for the [website](https://wowthemesnet.github.io/mundana-theme-jekyl
 ### TODO
 - [x] Cover page with the magazine’s name, logo, and purpose (school publication)
     - [x] This will include the editor's note
-- [ ] Link to Disqus
-- [ ] Link to Formspree
+- [x] Link to Disqus
+- [x] Link to Formspree
     - [x] Update page to ask for recommendations + letters from readers
 - [x] Page listing the authors and their works
     - [ ] Includes short bios of all authors

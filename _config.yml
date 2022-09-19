@@ -3,7 +3,7 @@ name: "The Oracle"
 description: "Park Lane International School's official student magazine."
 favicon: "assets/favicon.ico"
 baseurl: ""
-disqus: "demowebsite"
+disqus: "oraclemag"
 email: "info@oraclemag.org"
 # in case we ever want to set up some mailing...
 # mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
