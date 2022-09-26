@@ -842,3 +842,14 @@ a.text-dark.greenish-link {
 a.text-dark.greenish-link:hover {
 	color:#017657 !important;
 }
+
+.underline {
+  text-decoration: underline;
+
+  /* make thinner underline */
+  text-decoration-thickness: 0.1rem;
+
+  text-underline-offset: 0.2rem;
+
+  text-decoration-color: #555555;
+}

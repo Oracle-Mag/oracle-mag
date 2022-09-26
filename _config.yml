@@ -21,110 +21,86 @@ plugins:
 authors:
   salnorbertov:
     name: Sal Norbertov
-    site: https://www.wowthemes.net
     avatar: /assets/images/avatar1.jpg
     bio: "Hi, I am Sal, the author of Mundana, the theme you're currently previewing. I hope you like it!"
-    email: wowthemesnet@gmail.com
     is_writer: true
     role: Founder
 
   janecastle:
     name: Jane Castle
-    site: https://www.wowthemes.net
     avatar: /assets/images/avatar2.jpg
     bio: "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
-    email: fakemail@gmail.com
     is_writer: true
     role: Writer
 
   jeffnessie:
     name: Jeff Nessie
-    site: https://www.wowthemes.net
     avatar: /assets/images/avatar1.jpg
     bio: "Hi, I am Simon and built this site!"
-    email: wowthemesnet@gmail.com
-    is_writer: false
+    is_writer: true
     role: Technical Lead
 
   sallyuvoz:
     name: Sally Uvoz
-    site: https://www.wowthemes.net
     avatar: /assets/images/avatar2.jpg
     bio: "Making sure everything runs smoothly and our site looks clean!"
-    email: fakemail@gmail.com
     is_writer: false
     role: Designer
 
   gregstrong:
     name: Greg Strong
-    site: https://www.wowthemes.net
     avatar: /assets/images/avatar1.jpg
     bio: "Hi, I am Simon and built this site!"
-    email: wowthemesnet@gmail.com
     is_writer: false
     role: Technical Lead
 
   anitasmith:
     name: Anita Smith
-    site: https://www.wowthemes.net
     avatar: /assets/images/avatar2.jpg
     bio: "Making sure everything runs smoothly and our site looks clean!"
-    email: fakemail@gmail.com
     is_writer: false
     role: Designer
 
   aliceeckert:
     name: Alice Eckert
-    site: https://www.wowthemes.net
     avatar: /assets/images/avatar1.jpg
     bio: "Hi, I am Simon and built this site!"
-    email: wowthemesnet@gmail.com
     is_writer: false
     role: Technical Lead
 
   jordanklarov:
     name: Jordan Klarov
-    site: https://www.wowthemes.net
     avatar: /assets/images/avatar2.jpg
     bio: "Making sure everything runs smoothly and our site looks clean!"
-    email: fakemail@gmail.com
     is_writer: false
     role: Designer
 
   josevaldstejn:
     name: Jose Valdstejn
-    site: https://www.wowthemes.net
     avatar: /assets/images/avatar1.jpg
     bio: "Hi, I am Simon and built this site!"
-    email: wowthemesnet@gmail.com
-    is_writer: false
+    is_writer: true
     role: Technical Lead
 
   alexishent:
     name: Alexis Hent
-    site: https://www.wowthemes.net
     avatar: /assets/images/avatar2.jpg
     bio: "Making sure everything runs smoothly and our site looks clean!"
-    email: fakemail@gmail.com
     is_writer: false
     role: Designer
 
 other_team_members:
-  simonking:
-    name: Simon King
-    site: https://www.wowthemes.net
-    avatar: /assets/images/avatar1.jpg
-    bio: "Hi, I am Simon and built this site!"
-    email: wowthemesnet@gmail.com
+  simonilincev:
+    name: Simon Ilincev
+    avatar: /assets/images/students/simon_ilincev.jpeg
+    bio: "I coordinated the building of this website, and do the same for others around the web in my free time."
     is_writer: false
     role: Technical Lead
 
   krystofglad:
     name: Krystof Glad
-    site: https://www.wowthemes.net
     avatar: /assets/images/avatar2.jpg
     bio: "Making sure everything runs smoothly and our site looks clean!"
-    email: fakemail@gmail.com
     is_writer: false
     role: Designer
 
