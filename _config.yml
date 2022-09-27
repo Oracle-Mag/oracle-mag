@@ -19,90 +19,104 @@ plugins:
   - jekyll-seo-tag
 
 authors:
-  salnorbertov:
-    name: Sal Norbertov
+  ninafortikova:
+    name: Nina Fořtíková
     avatar: /assets/images/avatar1.jpg
-    bio: "Hi, I am Sal, the author of Mundana, the theme you're currently previewing. I hope you like it!"
+    bio: "Hi, my name is Nina and together with the rest of the writers, editors, media team and designers we decided to start this magazine as we felt like that was missing at our school. As an occasional writer, besides editing, I will write about new technologies that don’t receive as much coverage in mainstream media although they definitely should."
     is_writer: true
-    role: Founder
+    role: Chief Editor
 
-  janecastle:
-    name: Jane Castle
+  charlottecomstock:
+    name: Charlotte Comstock
     avatar: /assets/images/avatar2.jpg
-    bio: "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
+    bio: "Hi, my name’s Charlotte, and together with Nina we are the editors of this magazine, but I also love writing articles too. I’m in Year 12, and I love telling stories that matter. Whether that’s about a big issue that affects us all, justice for those who don’t get it, or stories that can help you personally. I also love reading, coffee (I drink way too much of it), and travel — so expect to see more of this from me. "
+    is_writer: true
+    role: Chief Editor
+
+  ameliebelcher:
+    name: Amelie Belcher
+    avatar: /assets/images/avatar1.jpg
+    bio: "I’m Amelie, I’m a writer and will write about any topic which seems interesting and important at the time, ranging from art and movies, to science and recipes."
     is_writer: true
     role: Writer
 
-  jeffnessie:
-    name: Jeff Nessie
-    avatar: /assets/images/avatar1.jpg
-    bio: "Hi, I am Simon and built this site!"
+  andreafriedrichova:
+    name: Andrea Friedrichová
+    avatar: /assets/images/avatar2.jpg
+    bio: "Hi, my name is Andie. I am a writer for our new magazine. I focus on writing articles about topics I find interesting, these can include serious topics such as human rights, but also fun topics such as the top popular songs of the month. "
     is_writer: true
-    role: Technical Lead
+    role: Writer
 
-  sallyuvoz:
-    name: Sally Uvoz
+  bettybayerova:
+    name: Betty Bayerová
     avatar: /assets/images/avatar2.jpg
-    bio: "Making sure everything runs smoothly and our site looks clean!"
-    is_writer: false
-    role: Designer
-
-  gregstrong:
-    name: Greg Strong
-    avatar: /assets/images/avatar1.jpg
-    bio: "Hi, I am Simon and built this site!"
-    is_writer: false
-    role: Technical Lead
-
-  anitasmith:
-    name: Anita Smith
-    avatar: /assets/images/avatar2.jpg
-    bio: "Making sure everything runs smoothly and our site looks clean!"
-    is_writer: false
-    role: Designer
-
-  aliceeckert:
-    name: Alice Eckert
-    avatar: /assets/images/avatar1.jpg
-    bio: "Hi, I am Simon and built this site!"
-    is_writer: false
-    role: Technical Lead
-
-  jordanklarov:
-    name: Jordan Klarov
-    avatar: /assets/images/avatar2.jpg
-    bio: "Making sure everything runs smoothly and our site looks clean!"
-    is_writer: false
-    role: Designer
-
-  josevaldstejn:
-    name: Jose Valdstejn
-    avatar: /assets/images/avatar1.jpg
-    bio: "Hi, I am Simon and built this site!"
+    bio: "Hi, I’m Betty and I am in year 13. As a writer for this magazine, I am interested in news from science, short stories and art."
     is_writer: true
-    role: Technical Lead
+    role: Writer
 
-  alexishent:
-    name: Alexis Hent
+  origoldstein:
+    name: Ori Goldstein
+    avatar: /assets/images/avatar1.jpg
+    bio: "Hi, my name is Ori, I am a Year 13 student and my main subjects of interest are the sciences. I enjoy hearing about other people’s perspectives and how they differ from mine."
+    is_writer: true
+    role: Writer
+
+  stutichhabra:
+    name: Stuti Chhabra
     avatar: /assets/images/avatar2.jpg
-    bio: "Making sure everything runs smoothly and our site looks clean!"
-    is_writer: false
-    role: Designer
+    bio: "Hi, I’m Stuti, I’m in Year 13 and I am a writer and a part of the media team for this magazine. I will be writing about crime cases, psychology, news and more. Along with the rest of my media team, I’m also in charge of setting up interviews, handling the social media accounts and creating engaging content for our followers. "
+    is_writer: true
+    role: Writer · Media Team Lead
+
+  juliastogel:
+    name: Julia Stogel
+    avatar: /assets/images/avatar2.jpg
+    bio: "Hi, I’m Julia and I’m a Year 13 student. I am a writer for the magazine, and I think that what I write will vary from time to time."
+    is_writer: true
+    role: Writer
 
 other_team_members:
   simonilincev:
     name: Simon Ilincev
     avatar: /assets/images/students/simon_ilincev.jpeg
-    bio: "I coordinated the building of this website, and do the same for others around the web in my free time."
+    bio: "I coordinated the building of this website, and do the same for others around the web in my free time. Let me know what you think!"
     is_writer: false
     role: Technical Lead
 
-  krystofglad:
-    name: Krystof Glad
-    avatar: /assets/images/avatar2.jpg
-    bio: "Making sure everything runs smoothly and our site looks clean!"
+  ellamoskalievova:
+    name: Ella Moskelievová
+    avatar: /assets/images/avatar1.jpg
+    bio: "Hello, my name is Ella. I am a new student at Parklane currently in Year 13. I am a writer with a focus on the topics of health and sport which are both very close to me and about any kind of entertainment, especially food related, because I love food :) I am a part of the media team as well, taking care of social media, specifically the Instagram account"
     is_writer: false
-    role: Designer
+    role: Instagram Account Manager
+
+  michaelastejskalova:
+    name: Michaela Stejskalová
+    avatar: /assets/images/avatar1.jpg
+    bio: "Hi, I'm Míša, and I am a student in Year 13. Along with the social media team, I will be handling our social media accounts and hopefully be in contact with our readers through those!"
+    is_writer: false
+    role: Media Team Member
+
+  krystofmoroz:
+    name: Kryštof Moroz
+    avatar: /assets/images/avatar2.jpg
+    bio: "TODO: Need to fill in some words here."
+    is_writer: false
+    role: Custom Domain Leader
+
+  laurakarasova:
+    name: Laura Karasová
+    avatar: /assets/images/avatar2.jpg
+    bio: "TODO: Need to fill in some words here."
+    is_writer: false
+    role: Website Designer · Magazine Designer
+
+  kristynamelicharova:
+    name: Kristýna Melicharová
+    avatar: /assets/images/avatar2.jpg
+    bio: "TODO: Need to fill in some words here."
+    is_writer: false
+    role: Magazine Designer
 
 # Defaults
 defaults:

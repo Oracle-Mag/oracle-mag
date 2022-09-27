@@ -6,37 +6,32 @@ permalink: "/team"
 
 <div class="container">
   <h3 class="font-weight-bold spanborder"><span>{{page.title}}</span></h3>
-  <p>You can click on the profile of anyone with the <em>Writer</em> role to see all the articles they contributed.</p>
   <div class="row gap-y listrecent listrecent listauthor">
     {% assign i = 0 %}
     {% for author in site.authors %}
+    <!-- these people are guaranteed to have articles -->
     {% assign moduloval = i | modulo: 2 %}
     <div class="col-lg-6 mb-4" data-aos="{% if moduloval == 0 %}fade-right{% else %}fade-left{% endif %}"
       data-aos-delay="{% if i < 6 %}{{ i | times: 100 }}{% elsif moduloval == 0%}0{% else %}200{% endif %}"
       data-aos-offset="50">
-      <div class="p-4 border rounded">
-        <div class="row">
-          <div class="col-md-3 mb-4 mb-md-0"><img alt="{{ author[1].name }}"
-              src="{{site.baseurl}}{{ author[1].avatar }}" class="rounded-circle" height="80" width="80"></div>
-          <div class="col-md-9">
-            {% if author[1].is_writer == true %}<a href="{{site.baseurl}}/author-{{ author[1].name | slugify }}">{%
-              endif %}
+      <a href="{{site.baseurl}}/author-{{ author[1].name | slugify }}">
+        <div class="p-4 border rounded clickable-team-member">
+          <div class="row">
+            <div class="col-md-3 mb-4 mb-md-0"><img alt="{{ author[1].name }}"
+                src="{{site.baseurl}}{{ author[1].avatar }}" class="rounded-circle" height="80" width="80"></div>
+            <div class="col-md-9">
               <h4 class="text-dark" style="font-weight: 400;"> {{ author[1].name }} </h4>
-              {% if author[1].role != "Writer" and author[1].is_writer == true %}
-              <h6 style="font-weight: normal; color: gray"> {{ author[1].role }} &centerdot; Writer</h6>
-              {% else %}
-              <h6 style="font-weight: normal; color: gray"> {{ author[1].role }} </h6>
-              {% endif %}
+              <h6 style="font-weight: normal; color: gray"> {{ author[1].role }}</h6>
               <div class="excerpt">{{ author[1].bio }}</div>
-            </a>
+            </div>
           </div>
         </div>
-      </div>
+      </a>
     </div>
     {% assign i = i | plus: 1 %}
     {% endfor %}
 
-    <!-- now for the rest of the team... -->
+    <!-- now for the rest of the team (guaranteed not to be writers)... -->
     {% assign j = 0 %}
     {% for member in site.other_team_members %}
     {% assign moduloval = j | modulo: 2 %}
@@ -47,15 +42,9 @@ permalink: "/team"
           <div class="col-md-3 mb-4 mb-md-0"><img alt="{{ member[1].name }}"
               src="{{site.baseurl}}{{ member[1].avatar }}" class="rounded-circle" height="80" width="80"></div>
           <div class="col-md-9">
-            {% if member[1].is_writer == true %}<a href="{{site.baseurl}}/author-{{ member[1].name | slugify }}">{%
-              endif %}
-              <h4 class="text-dark" style="font-weight: 400;"> {{ member[1].name }} </h4>
-              {% if member[1].role != "Writer" and member[1].is_writer == true %}
-              <h6 style="font-weight: normal; color: gray"> {{ member[1].role }} &centerdot; Writer</h6>
-              {% else %}
-              <h6 style="font-weight: normal; color: gray"> {{ member[1].role }} </h6>
-              {% endif %}
-              <div class="excerpt">{{ member[1].bio }}</div>
+            <h4 class="text-dark" style="font-weight: 400;"> {{ member[1].name }} </h4>
+            <h6 style="font-weight: normal; color: gray"> {{ member[1].role }} </h6>
+            <div class="excerpt">{{ member[1].bio }}</div>
             </a>
           </div>
         </div>

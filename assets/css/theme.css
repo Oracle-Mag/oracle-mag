@@ -865,3 +865,16 @@ a.text-dark.greenish-link:hover {
   display: table;
   clear: both;
 }
+
+/* Drop shadow effect on hover for team members who are writers */
+.clickable-team-member {
+  transition: box-shadow .3s;
+  border-radius:10px;
+  border: 1px solid #ccc;
+  background: #fff;
+  float: left;
+  
+}
+.clickable-team-member:hover {
+  box-shadow: 0 0 11px rgba(33,33,33,.2); 
+}
