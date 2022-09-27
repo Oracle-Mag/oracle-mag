@@ -853,3 +853,15 @@ a.text-dark.greenish-link:hover {
 
   text-decoration-color: #555555;
 }
+
+.column {
+  float: left;
+  width: 50%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
