@@ -1,16 +1,15 @@
 ---
 layout: post
-title:  "Accumulated experience of social living"
-author: salnorbertov
+title:  "Abortion rights worldwide: Progress or Regress?"
+author: Josefína Čejková
 categories: [ Jekyll, tutorial ]
 image: assets/images/15.jpg
 ---
-The die cut has also been employed in the non-juvenile sphere as well, a recent example being Jonathan Safran Foer’s ambitious Tree of Codes. 
+Abortion has been, still is, and will most likely always will be a controversial topic in society. It is discussed not only in countries of questionable democratic legitimacy, such as Poland, but also in countries seen as trailblazers of democracy, such as the USA. 
+There has been a recent change in the state of reproductive rights in the world and a positive one at that. Colombia, a country which previously only allowed abortion on certain grounds, has entirely decriminalized it. This is a huge win for Latin American feminist groups such as Causa Justa, which have been fighting for this constitutional change for years. Only 16 years ago abortions were entirely banned in Columbia so the progress being made is certainly a cause for celebration.
+In light of this news it is vital to note that many countries in the world have not risen to the outcries of their civil societies and have ignored or even regressed in their laws regarding abortion. A well known example of such a regression is a country with which we share one of our borders - Poland.
+Poland has been at the forefront of the fights against repression of women's rights worldwide for years. The social movement, known best as Strajk Kobiet, began in 2015 as a response to a proposed tightening of abortion laws. After years of protest, a near-total ban on abortion was introduced in Poland in late 2020. Following this highly controversial ruling, outrage was seen around the world, even more so after deaths of Polish mothers began being linked to the restrictive laws in place. This proved that imposing stricter abortion laws does not in any way work in favour or interest of the women affected. While Poland is considered one of the most significant backsliding democracies today, it is certainly not the only country we can see regressing when it comes to human rights. 
+The USA, a country which prides itself on being “The Land of the Free” has recently introduced laws in some of its states, such as Texas or Missouri, which propose a much stricter abortion system. Texas has been the face of this issue in the USA after its near-total ban in 2021. This has triggered a chain reaction in other conservative leaning states which have already begun following suit and joining Texas on a road to oppressive abortion rights. The case has been set in front of the Supreme Court which has yet to make a decision. This will play a vital and likely irreversible role in the state of democracy of the USA. According to Guttmacher Institute (2022) 26 states are likely or certain to ban abortion if the case is won in favour of Texas' laws.
+I encourage each and every one of you to do some further research into this topic which can hardly be covered in its entirety in one short article. It is important to engage with issues of global significance even if they do not directly affect us. Even if you currently have the right to abortion, it could be taken away. We need to stand united for a freer and juster future. No matter your sex, age or beliefs it is our responsibility to protect the rights of our sisters, mothers, daughters, and anyone else affected.
+And finally: it will always be our bodies and so it needs to be our choice. 
 
-As for this particular rendition of Charles Perrault’s classic tale, the text and design is by Lydia Very (1823-1901), sister of Transcendentalist poet Jones Very. The gruesome ending of the original - which sees Little Red Riding Hood being gobbled up as well as her grandmother - is avoided here, the gore giving way to the less bloody aims of the morality tale, and the lesson that one should not disobey one’s mother.
-
-The first mass-produced book to deviate from a rectilinear format, at least in the United States, is thought to be this 1863 edition of Red Riding Hood, cut into the shape of the protagonist herself with the troublesome wolf curled at her feet. Produced by the Boston-based publisher Louis Prang, this is the first in their “Doll Series”, a set of five “die-cut” books, known also as shape books — the other titles being Robinson Crusoe, Goody Two-Shoes (also written by Red Riding Hood author Lydia Very), Cinderella, and King Winter. 
-
-An 1868 Prang catalogue would later claim that such “books in the shape of a regular paper Doll... originated with us”. 
-
-> It would seem the claim could also extend to die cut books in general, as we can’t find anything sooner, but do let us know in the comments if you have further light to shed on this! Such books are, of course, still popular in children’s publishing today, though the die cutting is not now limited to mere outlines, as evidenced in a beautiful 2014 version of the same Little Red Riding Hood story. 
