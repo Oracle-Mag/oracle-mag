@@ -28,6 +28,3 @@ Test it out
 	Once you have chosen a few options to look into, research and test them out. There are many available courses for all fields of study. These courses are usually over the summer. Attending a course will help you either reassure yourself that you have chosen the right thing for you or realize that maybe you should keep on searching. Many top universities like Harvard or Oxford offer these summer courses for highschoolers. 
 
 These five tips will hopefully help you to narrow down your options and guide you through this difficult process. Finding out what you want to pursue is a hard task, but don’t feel discouraged. Instead, start researching soon to learn about yourself and your interests.  
-
-
-<p><iframe style="width:100%;" height="315" src="https://www.youtube.com/embed/Cniqsc9QfDo?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe></p>
