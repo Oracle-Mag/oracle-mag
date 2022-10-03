@@ -34,4 +34,5 @@ Source code for the [website](https://wowthemesnet.github.io/mundana-theme-jekyl
 - [ ] Implement dark and light mode (harder)
 - [ ] Add a countdown timer for the /future page, counting down to the next release date
 - [ ] Make the search bar a bit wider
+- [ ] Make search bar results theme line up with rest of site
 - [x] Minify CSS

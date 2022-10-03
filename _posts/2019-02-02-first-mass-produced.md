@@ -3,7 +3,7 @@ layout: post
 title:  "Women deserve justice, not lawsuits."
 author: charlottecomstock 
 categories: [ current affairs ]
-image: assets/images/17.jpg
+image: assets/images/law_hammer.jpeg
 tags: [featured]
 ---
 “I was 17 and was raped by a Stockholm politician who’s now a top candidate in the 2018 election”

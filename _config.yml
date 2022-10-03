@@ -29,7 +29,7 @@ authors:
   charlottecomstock:
     name: Charlotte Comstock
     avatar: /assets/images/avatar2.jpg
-    bio: "Hi, my name’s Charlotte, and together with Nina we are the editors of this magazine, but I also love writing articles too. I’m in Year 12, and I love telling stories that matter. Whether that’s about a big issue that affects us all, justice for those who don’t get it, or stories that can help you personally. I also love reading, coffee (I drink way too much of it), and travel — so expect to see more of this from me. "
+    bio: "Hi, my name’s Charlotte, and together with Nina we are the editors of this magazine, but I also love writing articles too. I’m in Year 13, and I love telling stories that matter. Whether that’s about a big issue that affects us all, justice for those who don’t get it, or stories that can help you personally. I also love reading, coffee (I drink way too much of it), and travel — so expect to see more of this from me. "
     is_writer: true
     role: Chief Editor
 
@@ -72,6 +72,21 @@ authors:
     name: Julia Stogel
     avatar: /assets/images/avatar2.jpg
     bio: "Hi, I’m Julia and I’m a Year 13 student. I am a writer for the magazine, and I think that what I write will vary from time to time."
+    is_writer: true
+
+    role: Writer
+
+  josefinacejkova:
+    name: Josefína Čejková
+    avatar: /assets/images/avatar2.jpg
+    bio: "Hi, I’m Josefina, a Year 12 student happy to be writing for this magazine!"
+    is_writer: true
+    role: Writer
+
+  magdalenahavlikova:
+    name: Magdalena Havlíková
+    avatar: /assets/images/avatar2.jpg
+    bio: "Hi, I’m Maggie, a Year 13 student here to share advice with you through the Oracle!"
     is_writer: true
     role: Writer
 
