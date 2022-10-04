@@ -2,7 +2,7 @@
 layout: post
 title:  "Billy Milligan: an innocent sufferer or a mastermind criminal faking it all along?"
 author: stutichhabra
-categories: [ Current Affairs ]
+categories: [ Entertainment ]
 image: assets/images/3.jpg
 ---
 In 1977, at Ohio State University, a “campus rapist” emerged. The police noticed that across all three cases, the MO (way of operating, such as patterns in the acts) of the perpetrator had been the same, in which the victims would be held at gunpoint, sexually assaulted, and then robbed, meaning that this was likely the doing of the same person. The police had found enough evidence to identify the man behind these crimes and arrest him. The victims had been able to take the police to the locations of these occurrences, from which they were able to gather fingerprints. They identified the culprit as Billy Milligan and arrested him after conducting a search at his residence where they found the driver’s licenses of some of his victims. However, despite all this evidence, Billy continued to say “I don’t know why they’re saying I’ve done all these things”. His sister stated: “I could see it in his eyes that he was absolutely clueless about what was happening”. As a result of his confusion, Billy reacted and pulled a urinal off of his cell wall to try to use the porcelain silvers to slash his wrists. This accident got various different types of doctors involved in Billy’s case. 
