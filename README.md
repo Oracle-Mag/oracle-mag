@@ -27,7 +27,7 @@ Source code for the [website](https://wowthemesnet.github.io/mundana-theme-jekyl
 - [ ] Create image of magazine to use for landing page
 - [ ] Add in all articles to articles database
 - [x] Add date sorting for articles
-- [ ] Create profiles for unmentioned writers (e.g. Berenika Netíková) + new writers
+- [ ] Create profiles for unmentioned writers (e.g. Berenika Netíková, Eva Slesarenko) + new writers
 
 
 #### Non-essential Extension Ideas
