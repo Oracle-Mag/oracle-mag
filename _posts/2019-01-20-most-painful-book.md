@@ -30,3 +30,15 @@ Beautiful Disaster - Jamie McGuire
 Salt to the Sea - Ruta Sepetys
 
 *Tells the story of four victims of the war; three of them fleeing and all of them eventually crossing paths. The story talks about their journey out of the country and during the sinking of Wilhelm Gustloff*
+
+November 9 - Colleen Hoover
+
+*A young actress who has to face a career change due to an accident meets a  stranger on her last day in town. She spends the day with him and at the end of the day they both agree to meet in exactly a year at the same time and same spot. They see each other every year after that for 5 years, however, their story gets more complicated the older they get. *
+
+Book Thief - Markus Zusak
+
+*Tells the story of a young girl taken in by a German family during the war. She learns how to read and throughout the story explores her love for books by sneaking into a library of a rich couple.*
+
+The Cruel Prince - Holly Black
+
+*Her parents were murdered when she was young and was kidnapped into the Faerie land. Now, she has to make her way through into earning the respect she deserves and always wanted. The story describes her journey to finding herself and earning her place in the Court. *
