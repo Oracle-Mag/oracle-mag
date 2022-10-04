@@ -1,18 +1,25 @@
 ---
 layout: post
-title:  "Tree of Codes"
-author: salnorbertov
-categories: [ Jekyll, tutorial ]
+title:  "Watering schedule for your plants"
+author: Berenika Netíková
+categories: [ Advice ]
 image: assets/images/2.jpg
 ---
-The first mass-produced book to deviate from a rectilinear format, at least in the United States, is thought to be this 1863 edition of Red Riding Hood, cut into the shape of the protagonist herself with the troublesome wolf curled at her feet. Produced by the Boston-based publisher Louis Prang, this is the first in their “Doll Series”, a set of five “die-cut” books, known also as shape books — the other titles being Robinson Crusoe, Goody Two-Shoes (also written by Red Riding Hood author Lydia Very), Cinderella, and King Winter. 
+For most plant parents, the idea of having a watering schedule is essential, as plants are rarely satisfied with just being watered “every Friday” or “once in a while, whenever I remember”. 
+As a person who has had plants for quite some time, I have learned to check up on plants and use signs to see whether they need to be watered or if they're okay. However looking back to when I was a beginner, having a somewhat fixed water schedule was the only option for me. 
+In this article, I will talk about both of these watering methods and how to apply them in your plant care.
 
-As for this particular rendition of Charles Perrault’s classic tale, the text and design is by Lydia Very (1823-1901), sister of Transcendentalist poet Jones Very. The gruesome ending of the original — which sees Little Red Riding Hood being gobbled up as well as her grandmother — is avoided here, the gore giving way to the less bloody aims of the morality tale, and the lesson that one should not disobey one’s mother.
+**Method 1: "a somewhat fixed schedule"**
 
-> It would seem the claim could also extend to die cut books in general, as we can’t find anything sooner, but do let us know in the comments if you have further light to shed on this! Such books are, of course, still popular in children’s publishing today, though the die cutting is not now limited to mere outlines, as evidenced in a beautiful 2014 version of the same Little Red Riding Hood story. 
+Every plant is different, and the environment of our homes are all different. The primary thing you should do when getting a new plant is to do some research on it, as with the wrong sunlight or watering they can die within days. If you don't know what genus your plant is, download a plant identifying app on your phone. I personally recommend “PictureThis” as this app will automatically give you so much valuable information about your plant, including the ideal sunlight conditions, soil hardiness, or some special needs such as sensitivity to certain chemicals like chlorine in tap water. 
+
+Here comes the good part- this app will even tell you the need for water that your plant has. They will obviously give you a range, for example from 5 to 7 days, as watering needs depend on a range of environmental factors, however, once you consider these factors the app can send you reminders on the set days for all your plants. This can be extremely helpful, and if you combine it with a little bit of plant observation that I will talk about later, you can easily learn how to truly favor your plants' wellbeing. If you're not a fan of apps like these, you can google the information needed and then record the watering days on a paper calendar, or into a google spreadsheet.
+
+Regarding the environmental factors, the more humid it is, the less water you will need as the rate of transpiration will be the slowest because of the concentration gradient of osmosis (sorry for the biology input..), the more light your plant is getting the more water it needs, and the higher the temperature the more water it needs. 
+
+Once you have done your research and considered all the environmental factors, try to create a schedule that you can use for some time, and eventually perhaps you can shift to the more advanced, “I know how to tell when the plant needs a drink” method. 
 
 
-An 1868 Prang catalogue would later claim that such “books in the shape of a regular paper Doll… originated with us”. 
+**Method 2: "I know how to tell when the plant needs a drink”** 
 
-The die cut has also been employed in the non-juvenile sphere as well, a recent example being Jonathan Safran Foer’s ambitious Tree of Codes. 
-
+When you observe your plants for enough time, you will start to notice certain things that they do when they need water. For example, a peace lilly drops its leaves when it's just ideally thirsty for its next watering, and many plants curl their leaves. Make sure these signs are not only happening when it gets too far (eg. drying ends are not a good example of this). The safest  method of all is getting yourself a soil moisture meter, researching the ideal reading for the next watering and checking the moisture level every few days.
