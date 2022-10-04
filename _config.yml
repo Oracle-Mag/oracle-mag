@@ -148,6 +148,13 @@ other_team_members:
     is_writer: true
     role: Writer
     
+  Anonymous:
+    name: Anonymous Writers
+    avatar: /assets/images/avatar2.jpg
+    bio: "TODO: Need to fill in some words here."
+    is_writer: true
+    role: Writer
+    
 # Defaults
 defaults:
   # all posts
