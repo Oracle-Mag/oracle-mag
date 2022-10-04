@@ -21,14 +21,14 @@ plugins:
 authors:
   ninafortikova:
     name: Nina Fořtíková
-    avatar: /assets/images/avatar1.jpg
+    avatar: /assets/images/NinaF.jpg
     bio: "Hi, my name is Nina and together with the rest of the writers, editors, media team and designers we decided to start this magazine as we felt like that was missing at our school. As an occasional writer, besides editing, I will write about new technologies that don’t receive as much coverage in mainstream media although they definitely should."
     is_writer: true
     role: Chief Editor
 
   charlottecomstock:
     name: Charlotte Comstock
-    avatar: /assets/images/avatar2.jpg
+    avatar: /assets/images/CharlotteC.jpg
     bio: "Hi, my name’s Charlotte, and together with Nina we are the editors of this magazine, but I also love writing articles too. I’m in Year 13, and I love telling stories that matter. Whether that’s about a big issue that affects us all, justice for those who don’t get it, or stories that can help you personally. I also love reading, coffee (I drink way too much of it), and travel — so expect to see more of this from me. "
     is_writer: true
     role: Chief Editor
@@ -42,7 +42,7 @@ authors:
 
   andreafriedrichova:
     name: Andrea Friedrichová
-    avatar: /assets/images/avatar2.jpg
+    avatar: /assets/images/AndreaF.jpg
     bio: "Hi, my name is Andie. I am a writer for our new magazine. I focus on writing articles about topics I find interesting, these can include serious topics such as human rights, but also fun topics such as the top popular songs of the month. "
     is_writer: true
     role: Writer
