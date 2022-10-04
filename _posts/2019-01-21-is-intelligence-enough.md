@@ -1,17 +1,16 @@
 ---
 layout: post
-title:  "Is Intelligence Enough"
-author: salnorbertov
-categories: [ current affairs, entertainment, advice ]
+title:  "Are we ALL ON jingle jangle "
+author: Anonymous
+categories: [ entertainment ]
 image: https://images.unsplash.com/photo-1523740856324-f2ce89135981?ixlib=rb-1.2.1&auto=format&fit=crop&w=798&q=80
 ---
-Education must also train one for quick, resolute and effective thinking. To think incisively and to think for one's self is very difficult. We are prone to let our mental life become invaded by legions of half truths, prejudices, and propaganda. At this point, I often wonder whether or not education is fulfilling its purpose. A great majority of the so-called educated people do not think logically and scientifically. 
+*In the past couple of years, the Netflix show Riverdale has flourished into a crazy plotline. After ‘thorough research’, we couldn’t believe the stuff that was happening in the show, so we decided to write two summaries (one is. the actual plot, and the other has been made up by us). Guess which one actually happened and which came from our imagination!*
 
-> Even the press, the classroom, the platform, and the pulpit in many instances do not give us objective and unbiased truths. To save man from the morass of propaganda, in my opinion, is one of the chief aims of education. Education must enable one to sift and weigh evidence, to discern the true from the false, the real from the unreal, and the facts from the fiction.
+**Summary 1**
 
-The function of education, therefore, is to teach one to think intensively and to think critically. But education which stops with efficiency may prove the greatest menace to society. The most dangerous criminal may be the man gifted with reason, but with no morals.
+This episode of Riverdale begins with Cheryl sending her adopted lesbian daughter to a crack house in order to prove that women are the superior gender. Once the adopted lesbian daughter arrives at the crack house, she discovers that she has been sent there to assist Cheryl's cult in ritually killing Archie. As a follow up from the previous episode, Jughead realises that he and Veronica must get together to stop a bomb from going off and causing an apocalypse - this is because Archie and Betty got together as well, which caused all of them to appear in Rivervale. But Reggie finds out and becomes overtaken with rage. He decides to get revenge on Jughead by murdering his girlfriend, Tabitha and by putting JingleJangle in her drink and causing her to overdose. In the meantime, still grieving her sister, Betty starts to see her ghost in her dreams, in which Polly tells Betty that Rivervale does not exist. Halfway through the episode, a werewolf started terrorizing the town, and murdering its people. In order to stop the werewolf’s actions, Toni becomes one as well. The episode ends with Archie, after being ritually sacrificed, waking up in the middle of class, in Riverdale.
 
-The late Eugene Talmadge, in my opinion, possessed one of the better minds of Georgia, or even America. Moreover, he wore the Phi Beta Kappa key. By all measuring rods, Mr. Talmadge could think critically and intensively; yet he contends that I am an inferior being. Are those the types of men we call educated?
+**Summary 2**
 
-We must remember that intelligence is not enough. Intelligence plus character--that is the goal of true education. The complete education gives one not only power of concentration, but worthy objectives upon which to concentrate. The broad education will, therefore, transmit to one not only the accumulated knowledge of the race but also the accumulated experience of social living.
-
+In this episode of Riverdale, the show is still occurring in Rivervale. Last episode, Archie was ritualistically sacrificed, but no one seems to care or mention it. Reggie, with his money from the casino he runs with Veronica, buys a car that is haunted by a teacher that was fired for sexual misconduct with her students, and throughout the episode he sees her ghost in the car. While this is happening, Jughead and Tabitha discover a secret room in their apartment through which they learn that the previous owners murdered each other, so naturally, Tabitha begins having dreams about murdering Jughead. She eventually gets over it, and they're fine for the rest of the episode. At the same time, the Ghoulies and Serpents fight, and Toni kills one of the Ghoulies. As a result, his mother summons La Ilorona (a spirit that kills children for revenge) as a form of revenge, and she emerges from the lake and begins killing children. Toni and Betty track her down, and Toni strikes a deal with La Ilorona to make her stop killing children by becoming La Ilorona herself.. And with that, the episode comes to a close.
