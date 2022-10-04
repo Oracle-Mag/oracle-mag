@@ -5,7 +5,7 @@ author: natalievondrackova
 categories: [ advice ]
 image: assets/images/12.jpg
 ---
-**MOST PAINFUL BOOK IN HISTORY**
+**MOST PAINFUL BOOK IN HISTORY...**
 
 **...CAIN'S JAWBONE** 
 
