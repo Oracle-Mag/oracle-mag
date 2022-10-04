@@ -98,6 +98,13 @@ other_team_members:
     is_writer: false
     role: Technical Lead
 
+  laurakarasova:
+    name: Laura Karasová
+    avatar: /assets/images/students/LauraK.jpeg
+    bio: "Hi, I hope you're enjoying The Oracle. My name is Laura, I am a Year 12 student and I collaborate with Simon and our Magazine team in designing all given content and presenting the works of our talented authors in the most engaging manners possible, both in prints and on our website."
+    is_writer: false
+    role: Website Designer · Magazine Designer
+
   ellamoskalievova:
     name: Ella Moskelievová
     avatar: /assets/images/students/EllaM.jpeg
@@ -118,13 +125,6 @@ other_team_members:
     bio: "TODO: Need to fill in some words here."
     is_writer: false
     role: Custom Domain Leader
-
-  laurakarasova:
-    name: Laura Karasová
-    avatar: /assets/images/students/LauraK.jpeg
-    bio: "Hi, I hope you're enjoying The Oracle. My name is Laura, I am a Year 12 student and I collaborate with Simon and our Magazine team in designing all given content and presenting the works of our talented authors in the most engaging manners possible, both in prints and on our website."
-    is_writer: false
-    role: Website Designer · Magazine Designer
 
   kristynamelicharova:
     name: Kristýna Melicharová
