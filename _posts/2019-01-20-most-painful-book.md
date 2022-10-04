@@ -20,10 +20,13 @@ However, to me it seems like a very fun and light activity for a lazy day. If a 
 **In case that isn’t for you, here are some of my personal favorite books that aren’t a pain to read. There’s a few older classics and then some modern YA novels as well as a non-fiction book which I found very interesting, especially for young students.**
 
 Beautiful Disaster - Jamie McGuire
+
 *When the player of the school falls for the delicate, smart girl with a dark past it can only be called a beautiful disaster. The perfect words to describe the combination of both and what their adventures together entail. *
 
 12 Rules for Life - Jordan Peterson
+
 *Talks about the issues and some unspoken rules in life which no one really thought about before they read this book. Perfect for anyone, especially teenagers trying to make their way through life and avoid chaos.*
 
 Salt to the Sea - Ruta Sepetys
+
 *Tells the story of four victims of the war; three of them fleeing and all of them eventually crossing paths. The story talks about their journey out of the country and during the sinking of Wilhelm Gustloff*
