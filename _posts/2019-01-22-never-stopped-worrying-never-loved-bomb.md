@@ -1,37 +1,41 @@
 ---
 layout: post
-title:  "Never stopped worrying or loving the bomb"
+title:  "'The ultimate Top cafes and restaurants of Prague’ list that you’ve been looking for!"
 author: salnorbertov
 categories: [ Jekyll ]
 image: assets/images/14.jpg
 tags: featured
 ---
-I’ve been through fire and water, I tell you! From my earliest pebblehood the wildest things you could imagine have been happening to this world of ours, and I have been right in the midst of them.
+*If you're bored of still visiting the same places over and over again, we created a list of restaurants and coffee shops, which are probably not so well known, but are totally worth visiting!  So for every occasion you might need to find a place where to eat or just get coffee - this is the list you've been looking for.*
 
-So begins Hallam Hawksworth’s The Strange Adventures of a Pebble. Written in the 1920s, the book was part of a series which also included The Adventures of a Grain of Dust and A Year in the Wonderland of Trees, all of which were supposed to introduce children to the world of Natural Sciences. 
+#_Restaurants
+                                                       
 
-In each of them, Hawksworth personifies the natural object he is exploring, and using a mixture of folk tales, scientific facts and colloquial, friendly explanations guides the reader through the history of the natural world. It’s a real thrill of a ride, dramatizing the life cycle of supposedly dull things. The Adventures of a Grain of Dust begins even more loudly than Pebble:
+C a n t i n a
+If you're wondering where to go to eat lunch or dinner and you don't want to go the same place as you always go - try Cantina, a Mexican restaurant on the side of Náplavka. The service is very nice and quick and the food is delicious with a big variety of typical Mexican dishes. 
 
-I don’t want you to think that I’m boasting, but I do believe I’m one of the greatest travellers that ever was; and if anybody, living or dead, has ever gone through with more than I have I’d like to hear about it.
+M a r t h y ' s  k i t c h e n 
+Marthy's kitchen is a very good brunch spot for when you want to go out with some friends. Their menu consists of eggs, pastries, fresh smoothies and a lot more! They serve their morning breakfast menus up until four in the afternoon so you don't have to rush out of bed :) 
 
-> Hallam Hawksworth was the pen-name of teacher Francis Blake Atkinson. He was married to the author Eleanor Stackhouse Atkinson, author of the children’s classic Greyfriars Bobby, which was based on the (supposedly) true story of a Scottish dog who spent fourteen years guarding his masters grave. The couple were both committed to education and published a weekly magazine for Chicago high school students called The Little Chronicle, as well as working for Encyclopaedia companies later in life.
+S m e t a n a  Q 
+I would consider this place like a cousin to Marthy's kitchen. They also serve brunches but way more sweet pastries and cakes to choose from if you're a sweet breakfast kinda person. They also have a lunch menu, which like the breakfast one, consists of fresh ingredients and is all home-made. I would recommend stopping for coffee at least as well. 
 
-I’ve been through fire and water, I tell you! From my earliest pebblehood the wildest things you could imagine have been happening to this world of ours, and I have been right in the midst of them.
+S u s h i   o i s h i 
+If you're a lover of sushi, you need to visit this place. Their sushi is spectacular, the service is super nice and the whole interior of the restaurant is very cute. It is located near Palladium. 
 
-So begins Hallam Hawksworth’s The Strange Adventures of a Pebble. Written in the 1920s, the book was part of a series which also included The Adventures of a Grain of Dust and A Year in the Wonderland of Trees, all of which were supposed to introduce children to the world of Natural Sciences. 
+G a m b e r o R o s s o 
+And now for the lovers of Italian food… Gambero rosso is a very nice Italian based restaurant with all the Italian food an Italian restaurant should offer. They have a special new lunch menu every week. It's a little pricey but very worth it. 
 
-In each of them, Hawksworth personifies the natural object he is exploring, and using a mixture of folk tales, scientific facts and colloquial, friendly explanations guides the reader through the history of the natural world. It’s a real thrill of a ride, dramatizing the life cycle of supposedly dull things. The Adventures of a Grain of Dust begins even more loudly than Pebble:
+M a i t r e a   R e s t a u r a n t
+The Maitrea restaurant is a vegetarian restaurant. They also have a new weekly menu every week and also have all and any other allergens written right on the menu card. They have a wide selection of soups, salads, appetizers, main course and of course desserts. 
 
-#### I don’t want you to think that I’m boasting
+*I think all of us had experienced a very bad day. Whether it is school related stuff or anything else… I think one of the best ways to cheer yourself up is to treat yourself! Sweet food is definitely a great way to do that.* 
 
-Hallam Hawksworth was the pen-name of teacher Francis Blake Atkinson. He was married to the author Eleanor Stackhouse Atkinson, author of the children’s classic Greyfriars Bobby, which was based on the (supposedly) true story of a Scottish dog who spent fourteen years guarding his masters grave. The couple were both committed to education and published a weekly magazine for Chicago high school students called The Little Chronicle, as well as working for Encyclopaedia companies later in life.
+O h  d e e r  b a k e r y
+That would be my personal favourite place to go to when I'm feeling down. They have a huge range of different flavored donuts which are to die for. It might be a bit expensive, but once in a while I think it's worth spending money on something this good! 
 
-I’ve been through fire and water, I tell you! From my earliest pebblehood the wildest things you could imagine have been happening to this world of ours, and I have been right in the midst of them.
+C o f f e e  a n d   w a f f l e s 
+They offer delicious but not so traditional breakfasts. You can choose from a gluten free version to a sweet or salty dish. As you probably guessed by the name, waffles are definitely their specialty. They again have a huge variety of different flavors you can choose from so all of your tastes are satisfied :)
 
-> So begins Hallam Hawksworth’s The Strange Adventures of a Pebble. Written in the 1920s, the book was part of a series which also included The Adventures of a Grain of Dust and A Year in the Wonderland of Trees, all of which were supposed to introduce children to the world of Natural Sciences. 
 
-In each of them, Hawksworth personifies the natural object he is exploring, and using a mixture of folk tales, scientific facts and colloquial, friendly explanations guides the reader through the history of the natural world. It’s a real thrill of a ride, dramatizing the life cycle of supposedly dull things. The Adventures of a Grain of Dust begins even more loudly than Pebble:
 
-I don’t want you to think that I’m boasting, but I do believe I’m one of the greatest travellers that ever was; and if anybody, living or dead, has ever gone through with more than I have I’d like to hear about it.
-
-Hallam Hawksworth was the pen-name of teacher Francis Blake Atkinson. He was married to the author Eleanor Stackhouse Atkinson, author of the children’s classic Greyfriars Bobby, which was based on the (supposedly) true story of a Scottish dog who spent fourteen years guarding his masters grave. The couple were both committed to education and published a weekly magazine for Chicago high school students called The Little Chronicle, as well as working for Encyclopaedia companies later in life.
