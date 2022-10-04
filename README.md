@@ -30,7 +30,7 @@ Source code for the [website](https://wowthemesnet.github.io/mundana-theme-jekyl
 
 
 #### Non-essential Extension Ideas
-- [ ] Find and use a favicon that better matches the dark green
+- [x] Find and use a favicon that better matches the dark green
 - [ ] Implement dark and light mode (harder)
 - [ ] Add a countdown timer for the /future page, counting down to the next release date
 - [ ] Make the search bar a bit wider
