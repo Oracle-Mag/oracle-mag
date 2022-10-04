@@ -1,7 +1,7 @@
 # Site
 name: "The Oracle"
 description: "Park Lane International School's official student magazine."
-favicon: "assets/favicon.ico"
+favicon: "assets/newfavicon.ico"
 baseurl: ""
 disqus: "oraclemag"
 email: "info@oraclemag.org"
