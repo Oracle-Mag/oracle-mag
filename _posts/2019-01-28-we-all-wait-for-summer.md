@@ -1,13 +1,11 @@
 ---
 layout: post
-title:  "The four Seasons"
+title:  "The Four Seasons by Vivaldi"
 author: bettybayerova
 categories: [ Entertainment ]
 image: assets/images/marius-masalar-rPOmLGwai2w-unsplash.jpg
 tags: [featured]
 ---
-
-**by Vivaldi**
 
 Italian composer Antonio Vivaldi is arguably best known for his group of compositions: The Four Seasons. A breath-taking collection of four violin concerti, each representing a season of the year. Although classical ballets such as the Nutcracker or Sleeping Beauty are based on narratives, portraying the cycle of the seasons accompanied by Vivaldi's masterpiece through ballet would be simply gorgeous. I have designed a couple of ballet costume ideas titled according to the season. I have tried to incorporate elements of the baroque period into modern designs. Alongside them, I have written a few lines of poetry inspired by Vivaldi, to reflect the feeling of the music. However, I would recommend listening for yourself, because you can never hear these compositions too many times…
 
