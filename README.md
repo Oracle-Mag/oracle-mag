@@ -26,6 +26,7 @@ Source code for the [website](https://wowthemesnet.github.io/mundana-theme-jekyl
 - [x] Include magazine social media links + email on one page (probably contact?)
 - [ ] Create image of magazine to use for landing page
 - [ ] Add in all articles to articles database
+    - [ ] Choose an article to have stickied, and add a photo for it
 - [x] Add date sorting for articles
 - [ ] Create profiles for unmentioned writers (e.g. Berenika Netíková, Eva Slesarenko) + new writers
 
