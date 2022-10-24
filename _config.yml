@@ -90,6 +90,13 @@ authors:
     is_writer: true
     role: Writer
     
+  saradejdarova:
+    name: Sára Dejdárová
+    avatar: /assets/images/avatar2.jpg
+    bio: "TODO: Need to fill in some words here."
+    is_writer: true
+    role: Writer
+    
   berenikanetikova:
     name: Berenika Netíková
     avatar: /assets/images/students/berenika.jpg
