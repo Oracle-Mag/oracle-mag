@@ -3,7 +3,7 @@ layout: post
 title:  "Here's how to not freak out when the world seems like it's ending"
 categories: [ advice ]
 author: magdalenahavlikova
-image: assets/images/melancholicmaninsuit.jpg
+image: assets/images/Paolo_Monti_-_Servizio_fotografico_(Napoli,_1969)_-_BEIC_6353768.jpg
 ---
 Have you ever been in a situation where you feel like the whole world is against you? As if all the bad things suddenly started targeting you? Or perhaps something took a turn for the worse and it simply got you into an uncomfortable position? 
 Well, naturally the average human response to this is to start feeling irritated or overwhelmed and therefore it can lead to acting on the spot and later regretting those actions. 
