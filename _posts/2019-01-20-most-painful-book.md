@@ -3,7 +3,7 @@ layout: post
 title:  "The most painful book in history"
 author: natalievondrackova
 categories: [ advice ]
-image: assets/images/12.jpg
+image: assets/images/painfulbook.jpg
 ---
 **MOST PAINFUL BOOK IN HISTORY...**
 
