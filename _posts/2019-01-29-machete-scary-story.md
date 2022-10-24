@@ -3,7 +3,7 @@ layout: post
 title:  "The people you meet at night;"
 author: charlottecomstock
 categories: [ Entertainment ]
-image: assets/images/mastermindcriminal.jpg
+image: assets/images/night-g8991034ac_1920.jpg
 ---
 
  **a true scary story**
