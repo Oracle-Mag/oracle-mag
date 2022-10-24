@@ -2,7 +2,7 @@
 layout: post
 title:  "Are we ALL ON jingle jangle "
 categories: [ entertainment ]
-image: https://images.unsplash.com/photo-1523740856324-f2ce89135981?ixlib=rb-1.2.1&auto=format&fit=crop&w=798&q=80
+image: assets/images/jinglejangle.jpg
 ---
 *In the past couple of years, the Netflix show Riverdale has flourished into a crazy plotline. After ‘thorough research’, we couldn’t believe the stuff that was happening in the show, so we decided to write two summaries (one is. the actual plot, and the other has been made up by us). Guess which one actually happened and which came from our imagination!*
 
