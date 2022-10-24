@@ -2,6 +2,7 @@
 layout: post
 title:  "'The ultimate Top cafes and restaurants of Prague’ list that you’ve been looking for!"
 author: bettybayerova
+author: ellamoskalievova
 categories: [ Advice ]
 image: assets/images/akemy-mory-6avBWm93cVc-unsplash 2.jpeg
 tags: featured
