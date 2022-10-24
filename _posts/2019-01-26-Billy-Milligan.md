@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Billy Milligan: an innocent sufferer or a mastermind criminal faking it all along?"
-author: stutichhabra
+author: stutichhabra AND evaslesarenko
 categories: [ Entertainment ]
 image: assets/images/3.jpg
 ---
