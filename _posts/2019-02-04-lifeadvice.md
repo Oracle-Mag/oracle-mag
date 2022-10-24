@@ -2,7 +2,7 @@
 layout: post
 title:  "How am I supposed to know what I want to do with the rest of my life?!"
 author : andreafriedrichova
-categories: [ Current Affairs ]
+categories: [ Advice ]
 image: assets/images/lifetipslandscape.jpg
 ---
 “Mommy, I want to be an astronaut one day.” We’ve all been there. Already at a young age we tend to think about the future and what we’ll grow up to be.  As children we have big dreams with no limits, but the older we grow the less we let ourself believe that those dreams can come true. In high school, we are faced with the ultimate two questions: “What university will you go to? What job do you want to have?”
