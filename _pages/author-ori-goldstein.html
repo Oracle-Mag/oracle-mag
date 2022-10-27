@@ -1,7 +1,7 @@
 ---
-title: "Jane Castle"
+title: "Ori Goldstein"
 layout: default
-permalink: "/author-jane-castle.html"
+permalink: "/author-ori-goldstein.html"
 ---
 <div class="container">
   <div class="row justify-content-center">
@@ -9,15 +9,15 @@ permalink: "/author-jane-castle.html"
       <div class="row align-items-center mb-5">
         <div class="col-md-9" data-aos="fade-left">
           <h2 class="font-weight-bold">{{page.title}}</h2>
-          <p class="excerpt">{{ site.authors.janecastle.bio }}</p>
+          <p class="excerpt">{{ site.authors.origoldstein.bio }}</p>
         </div>
         <div class="col-md-3 text-right" data-aos="fade-right" data-aos-duration="250">
-          <img alt="{{ site.authors.janecastle.name }}" src="{{site.baseurl}}{{ site.authors.janecastle.avatar }}"
-            class="rounded-circle" height="100" width="100">
+          <img alt="{{ site.authors.origoldstein.name }}" src="{{site.baseurl}}{{ site.authors.origoldstein.avatar }}"
+               class="rounded-circle" height="100" width="100">
         </div>
       </div>
       <h4 class="font-weight-bold spanborder" data-aos="fade-right" data-aos-delay="100"><span>Posts by {{page.title}}</span></h4>
-      {% assign posts = site.posts | where:"author","janecastle" %}
+      {% assign posts = site.posts | where:"author","origoldstein" %}
       <!-- {% assign idx = 0 %} -->
       {% assign i = 0 %}
       {% for post in posts %}

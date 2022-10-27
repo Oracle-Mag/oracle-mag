@@ -73,27 +73,26 @@ authors:
     avatar: /assets/images/students/JuliaS.jpeg
     bio: "Hi, I’m Julia and I’m a Year 13 student. I am a writer for the magazine, and I think that what I write will vary from time to time."
     is_writer: true
-
     role: Writer
 
   josefinacejkova:
     name: Josefína Čejková
-    avatar: /assets/images/avatar2.jpg
+    avatar: /assets/images/students/default.jpg
     bio: "Hi, I’m Josefina, a Year 13 student happy to be writing for this magazine!"
     is_writer: true
     role: Writer
 
   magdalenahavlikova:
     name: Magdalena Havlíková
-    avatar: /assets/images/avatar2.jpg
+    avatar: /assets/images/students/default.jpg
     bio: "Hi, I’m Maggie, a Year 13 student here to share advice with you through the Oracle!"
     is_writer: true
     role: Writer
     
   saradejdarova:
     name: Sára Dejdárová
-    avatar: /assets/images/avatar2.jpg
-    bio: "TODO: Need to fill in some words here."
+    avatar: /assets/images/students/default.jpg
+    bio: "This team member prefers to keep an air of mystery about themselves."
     is_writer: true
     role: Writer
     
@@ -101,6 +100,27 @@ authors:
     name: Berenika Netíková
     avatar: /assets/images/students/berenika.jpg
     bio: "Hey:)! My name is Berenika and I'm a Y12 student with interest in plants, spirituality, and self-improvement. I will be writing about something regarding plants for every magazine."
+    is_writer: true
+    role: Writer
+
+  evaslesarenko:
+    name: Eva Slesarenko
+    avatar: /assets/images/students/default.jpg
+    bio: "This team member prefers to keep an air of mystery about themselves."
+    is_writer: true
+    role: Writer
+
+  natalievondrackova:
+    name: Natálie Vondráčková
+    avatar: /assets/images/students/default.jpg
+    bio: "This team member prefers to keep an air of mystery about themselves."
+    is_writer: true
+    role: Writer
+
+  anonymous:
+    name: Anonymous Writers
+    avatar: /assets/images/students/default.jpg
+    bio: "Writers who would rather not be named."
     is_writer: true
     role: Writer
 
@@ -135,38 +155,17 @@ other_team_members:
 
   krystofmoroz:
     name: Kryštof Moroz
-    avatar: /assets/images/avatar2.jpg
-    bio: "TODO: Need to fill in some words here."
+    avatar: /assets/images/students/default.jpg
+    bio: "This team member prefers to keep an air of mystery about themselves."
     is_writer: false
     role: Custom Domain Leader
 
   kristynamelicharova:
     name: Kristýna Melicharová
-    avatar: /assets/images/avatar2.jpg
-    bio: "TODO: Need to fill in some words here."
+    avatar: /assets/images/students/default.jpg
+    bio: "This team member prefers to keep an air of mystery about themselves."
     is_writer: false
     role: Magazine Designer
-   
-  evaslesarenko:
-    name: Eva Slesarenko
-    avatar: /assets/images/avatar2.jpg
-    bio: "TODO: Need to fill in some words here."
-    is_writer: true
-    role: Writer
-    
-  natalievondrackova:
-    name: Natálie Vondráčková
-    avatar: /assets/images/avatar2.jpg
-    bio: "TODO: Need to fill in some words here."
-    is_writer: true
-    role: Writer
-    
-  Anonymous:
-    name: Anonymous Writers
-    avatar: /assets/images/avatar2.jpg
-    bio: "TODO: Need to fill in some words here."
-    is_writer: true
-    role: Writer
     
 # Defaults
 defaults:
@@ -175,8 +174,8 @@ defaults:
       path: "_posts"
     values:
       layout: post
-      author: salnorbertov
-      avatar: /assets/images/avatar1.jpg
+      author: charlottecomstock
+      avatar: /assets/images/students/CharlotteC.jpg
 
   # all pages
   - scope:

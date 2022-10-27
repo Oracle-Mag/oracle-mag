@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Watering schedule for your plants"
-author: Berenika Netíková
+author: berenanetikova
 categories: [ advice ]
 image: assets/images/prudence-earl-NwBx723XaHw-unsplash.jpg
 ---
