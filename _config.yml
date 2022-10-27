@@ -124,7 +124,7 @@ authors:
     is_writer: true
     role: Writer
 
-  anonymous:
+  anonymouswriters:
     name: Anonymous Writers
     avatar: /assets/images/students/default.jpg
     bio: "Writers who would rather not be named."

@@ -1,7 +1,7 @@
 ---
 title: "Anonymous"
 layout: default
-permalink: "/author-anonymous.html"
+permalink: "/author-anonymous-writers.html"
 ---
 <div class="container">
   <div class="row justify-content-center">
@@ -9,15 +9,15 @@ permalink: "/author-anonymous.html"
       <div class="row align-items-center mb-5">
         <div class="col-md-9" data-aos="fade-left">
           <h2 class="font-weight-bold">{{page.title}}</h2>
-          <p class="excerpt">{{ site.authors.anonymous.bio }}</p>
+          <p class="excerpt">{{ site.authors.anonymouswriters.bio }}</p>
         </div>
         <div class="col-md-3 text-right" data-aos="fade-right" data-aos-duration="250">
-          <img alt="{{ site.authors.anonymous.name }}" src="{{site.baseurl}}{{ site.authors.anonymous.avatar }}"
+          <img alt="{{ site.authors.anonymouswriters.name }}" src="{{site.baseurl}}{{ site.authors.anonymouswriters.avatar }}"
                class="rounded-circle" height="100" width="100">
         </div>
       </div>
       <h4 class="font-weight-bold spanborder" data-aos="fade-right" data-aos-delay="100"><span>Posts by {{page.title}}</span></h4>
-      {% assign posts = site.posts | where_exp: "info", "info.author contains 'anonymous'" %}
+      {% assign posts = site.posts | where_exp: "info", "info.author contains 'anonymouswriters'" %}
       <!-- {% assign idx = 0 %} -->
       {% assign i = 0 %}
       {% for post in posts %}
