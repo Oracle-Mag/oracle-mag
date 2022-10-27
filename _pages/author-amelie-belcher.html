@@ -17,7 +17,7 @@ permalink: "/author-amelie-belcher.html"
                 </div>
             </div>
             <h4 class="font-weight-bold spanborder" data-aos="fade-right" data-aos-delay="100"><span>Posts by {{page.title}}</span></h4>
-            {% assign posts = site.posts | where:"author","ameliebelcher" %}
+            {% assign posts = site.posts | where_exp: "info", "info.author contains 'ameliebelcher'" %}
             <!-- {% assign idx = 0 %} -->
             {% assign i = 0 %}
             {% for post in posts %}

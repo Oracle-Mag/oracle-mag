@@ -1,7 +1,7 @@
 ---
-title: "Andrea Friedrichová"
+title: "Berenika Netíková"
 layout: default
-permalink: "/author-andrea-friedrichová.html"
+permalink: "/author-berenika-netíková.html"
 ---
 <div class="container">
   <div class="row justify-content-center">
@@ -9,15 +9,15 @@ permalink: "/author-andrea-friedrichová.html"
       <div class="row align-items-center mb-5">
         <div class="col-md-9" data-aos="fade-left">
           <h2 class="font-weight-bold">{{page.title}}</h2>
-          <p class="excerpt">{{ site.authors.andreafriedrichova.bio }}</p>
+          <p class="excerpt">{{ site.authors.berenikanetikova.bio }}</p>
         </div>
         <div class="col-md-3 text-right" data-aos="fade-right" data-aos-duration="250">
-          <img alt="{{ site.authors.andreafriedrichova.name }}" src="{{site.baseurl}}{{ site.authors.andreafriedrichova.avatar }}"
-            class="rounded-circle" height="100" width="100">
+          <img alt="{{ site.authors.berenikanetikova.name }}" src="{{site.baseurl}}{{ site.authors.berenikanetikova.avatar }}"
+               class="rounded-circle" height="100" width="100">
         </div>
       </div>
       <h4 class="font-weight-bold spanborder" data-aos="fade-right" data-aos-delay="100"><span>Posts by {{page.title}}</span></h4>
-      {% assign posts = site.posts | where_exp: "info", "info.author contains 'andreafriedrichova'" %}
+      {% assign posts = site.posts | where_exp: "info", "info.author contains 'berenikanetikova'" %}
       <!-- {% assign idx = 0 %} -->
       {% assign i = 0 %}
       {% for post in posts %}
