@@ -2,7 +2,7 @@
 layout: post
 title:  "Watering schedule for your plants"
 author: Berenika Netíková
-categories: [ Advice ]
+categories: [ advice ]
 image: assets/images/prudence-earl-NwBx723XaHw-unsplash.jpg
 ---
 For most plant parents, the idea of having a watering schedule is essential, as plants are rarely satisfied with just being watered “every Friday” or “once in a while, whenever I remember”. 

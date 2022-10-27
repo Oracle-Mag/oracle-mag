@@ -1,12 +1,11 @@
 ---
 layout: post
-title:  "The people you meet at night;"
+title:  "The people you meet at night"
 author: charlottecomstock
-categories: [ Entertainment ]
+categories: [ entertainment ]
 image: assets/images/night-g8991034ac_1920.jpg
+tags: [ featured ]
 ---
-
- **a true scary story**
  
  It was a normal Friday night, and I was visiting my friend in a small town outside of Prague. Wanting to get some fresh air, we went for a short stroll around the lake (keep in mind that this was during the 9 p.m. curfew caused by covid).  The first strange occurrence of the night was the local castle guard shining his lantern on us and following us, ushering us home for the approaching curfew. Reluctant to leave the peaceful setting of the frozen lake, we slowly made our way up the hill back to the house. 
  

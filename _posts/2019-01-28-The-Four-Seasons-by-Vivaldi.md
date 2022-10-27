@@ -2,7 +2,7 @@
 layout: post
 title:  "The Four Seasons by Vivaldi"
 author: bettybayerova
-categories: [ Entertainment ]
+categories: [ entertainment ]
 image: assets/images/marius-masalar-rPOmLGwai2w-unsplash.jpg
 tags: [featured]
 ---

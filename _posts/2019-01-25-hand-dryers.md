@@ -2,7 +2,7 @@
 layout: post
 title:  "Hand Dryers; Good or Evil?"
 author: origoldstein
-categories: [ Advice ]
+categories: [ advice, entertainment ]
 image: assets/images/washinghands.jpg
 ---
 During early February, 2018, the internet was roaring about a viral photo posted of a fungi-infested petri dish. This outrage was caused by a simple class assignment, in which Nicole Ward, a microbiology professor, instructed her students to leave an open petri dish for three minutes at a random location, which would then be observed in the following 2 days. One particular petri dish was placed in an enclosed Dyson hand dryer.
