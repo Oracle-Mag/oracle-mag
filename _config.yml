@@ -18,6 +18,7 @@ plugins:
   - jekyll-paginate
   - jekyll-seo-tag
 
+# author names and ids should match up with their individual HTML page metadata/title
 authors:
   ninafortikova:
     name: Nina Fořtíková
