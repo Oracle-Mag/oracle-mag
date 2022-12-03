@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Warhol's dance with death"
-author: ninafortikova
+author: nataliechorvatova
 categories: [ entertainment ]
 image: assets/images/andy-warhol-bridge-gda13a6229_1280.jpg
 tags: [ sticky ]
