@@ -64,7 +64,7 @@ Repeat the second step shown above, but instead do not give the `is_writer` role
 
 #### Linking to a new edition
 
-Go to `_pages/full-issues.html` and paste in the Canva embed for the new magazine edition, as explained on Canva's site [here](https://www.canva.com/embeds/).
+Go to `_pages/full-issues.html` and paste in the Canva embed for the new magazine edition (as explained on Canva's site [here](https://www.canva.com/embeds/)).
 
 ### Extension Ideas
 - [x] Find and use a favicon that better matches the dark green
@@ -74,6 +74,7 @@ Go to `_pages/full-issues.html` and paste in the Canva embed for the new magazin
 - [ ] Make the search bar a bit wider
 - [ ] Make search bar results theme line up with rest of site
 - [x] Minify CSS
+- [ ] Minify images to increase page load speed
 
 ### Technical Difficulties?
 
