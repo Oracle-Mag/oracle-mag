@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The most painful book in history"
-author: natalievondrackova
+author: nathalievondrackova
 categories: [ advice ]
 image: assets/images/painfulbook.jpg
 ---

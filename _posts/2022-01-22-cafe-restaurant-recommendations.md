@@ -4,7 +4,6 @@ title:  "'The ultimate Top cafes and restaurants of Prague’ list that you’ve
 author: bettybayerova AND ellamoskalievova
 categories: [ advice ]
 image: assets/images/akemy-mory-6avBWm93cVc-unsplash 2.jpeg
-tags: featured
 ---
 *If you're bored of still visiting the same places over and over again, we created a list of restaurants and coffee shops, which are probably not so well known, but are totally worth visiting!  So for every occasion you might need to find a place where to eat or just get coffee - this is the list you've been looking for.*
 

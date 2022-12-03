@@ -1,0 +1,10 @@
+/* aligns image in the center of the page and removes padding */
+.align-center {
+    margin: 0 auto;
+    display: block;
+}
+
+/* allows the 'Share this' buttons to always be seen */
+.navbar {
+    height: 4em !important;
+}

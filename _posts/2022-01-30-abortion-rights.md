@@ -4,7 +4,7 @@ title:  "Abortion rights worldwide: Progress or Regress?"
 author: josefinacejkova
 categories: [ current affairs ]
 image: assets/images/abortion.jpeg
-tags: [ sticky ]
+tags: [ featured ]
 ---
 Abortion has been, still is, and will most likely always will be a controversial topic in society. It is discussed not only in countries of questionable democratic legitimacy, such as Poland, but also in countries seen as trailblazers of democracy, such as the USA.
 
