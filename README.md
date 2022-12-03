@@ -27,7 +27,7 @@ tags: featured  # if you want it to show up on the sidebar, or 'sticky' to be th
 ---
 ```
 
-Then add in the post contents using the Markdown language syntax. Images, formatting, etc. is all supported.
+Then add in the post contents using the Markdown language syntax. Images, formatting, etc. is all supported. Remember to add an empty line between paragraphs!
 
 #### Adding a new page
 
@@ -74,8 +74,28 @@ Go to `_pages/full-issues.html` and paste in the Canva embed for the new magazin
 - [ ] Make the search bar a bit wider
 - [ ] Make search bar results theme line up with rest of site
 - [x] Minify CSS
-- [ ] Minify images to increase page load speed
+- [ ] Have minified versions of article images be loaded on the /articles page to increase load speed
 
 ### Technical Difficulties?
 
 Feel free to contact Simon Ilincev (Destaq). You can find his email address on his GitHub profile [here](https://github.com/Destaq).
+
+### Additional Note
+
+If you are adding in something like a poem, where you want to have phrases/sentences be on different lines but not have the large spacing that paragraphs would have, you can use the `\` character to indicate that the next line is part of the same paragraph. For example:
+
+```markdown
+This is a paragraph.\
+This is the second line of the same paragraph.
+```
+
+*For example:*
+
+Here is a paragraph.
+
+Here is another paragraph.
+
+versus...
+
+Here is a paragraph.\
+Here is the second line of the same paragraph.
