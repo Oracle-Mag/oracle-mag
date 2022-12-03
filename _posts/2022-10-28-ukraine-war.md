@@ -7,7 +7,7 @@ image: assets/images/happyukraine.jpeg
 tags: [ featured ]
 ---
 
-**The 25th of Feburary, 2022.**
+**The 25th of February, 2022.**
 
 Dear Reader…
 

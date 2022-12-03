@@ -4,6 +4,7 @@ title:  "Does bilingualism make you smarter?"
 author: origoldstein
 categories: [ entertainment, advice ]
 image: assets/images/english.jpeg
+tags: [ sticky ]
 ---
 As we all attend an international school, there is a high chance that you are probably bilingual or even trilingual. Not only are there many bilingual students in this school, but we also learn a third language that further adds to our language acquisition. Being bilingual brings us many advantages, such as new perspectives about different cultures, different ways of thinking and new creative approaches. Since bilingualism brings us many advantages, does it necessarily mean that it makes us any smarter than someone monolingual? 
 

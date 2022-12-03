@@ -4,7 +4,6 @@ title:  "Warhol's dance with death"
 author: nataliechorvatova
 categories: [ entertainment ]
 image: assets/images/andy-warhol-bridge-gda13a6229_1280.jpg
-tags: [ sticky ]
 ---
 
 One radical feminist writer’s bullet aimed at the world-famous pop movement artist  - both authors of established masterworks, regardless of their difference in context. Andy Warhol may be a name of familiarity worldwide, however, Valerie Solana’s may be foreign, regardless of her intense and ideologically oriented life course that left a mark on history and pop culture as we know it today. The rivetting case of how Andy Warhol’s life was changed forever, left with a life-longing memory of Solano’s terror.
