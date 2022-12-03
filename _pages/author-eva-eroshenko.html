@@ -1,0 +1,32 @@
+---
+title: "Eva Eroshenko"
+layout: default
+permalink: "/author-eva-eroshenko.html"
+---
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+            <div class="row align-items-center mb-5">
+                <div class="col-md-9" data-aos="fade-left">
+                    <h2 class="font-weight-bold">{{page.title}}</h2>
+                    <p class="excerpt">{{ site.authors.evaeroshenko.bio }}</p>
+                </div>
+                <div class="col-md-3 text-right" data-aos="fade-right" data-aos-duration="250">
+                    <img alt="{{ site.authors.evaeroshenko.name }}" src="{{site.baseurl}}{{ site.authors.evaeroshenko.avatar }}"
+                         class="rounded-circle" height="100" width="100">
+                </div>
+            </div>
+            <h4 class="font-weight-bold spanborder" data-aos="fade-right" data-aos-delay="100"><span>Posts by {{page.title}}</span></h4>
+            {% assign posts = site.posts | where_exp: "info", "info.author contains 'evaeroshenko'" %}
+            <!-- {% assign idx = 0 %} -->
+            {% assign i = 0 %}
+            {% for post in posts %}
+            {% assign moduloval = i | modulo:2 %}
+            <div data-aos="{% if moduloval == 0 %}fade-right{% else %}fade-left{% endif %}" data-aos-delay="200" data-aos-offset="0">
+                {% include main-loop-card.html %}
+            </div>
+            {% assign i = i | plus: 1 %}
+            {% endfor %}
+        </div>
+    </div>
+</div>

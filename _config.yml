@@ -125,6 +125,34 @@ authors:
     is_writer: true
     role: Writer
 
+  ineswerfeli:
+    name: Ines Werfeli
+    avatar: /assets/images/students/default.jpg
+    bio: "This team member prefers to keep an air of mystery about themselves."
+    is_writer: true
+    role: Writer
+
+  evaeroshenko:
+    name: Eva Eroshenko
+    avatar: /assets/images/students/default.jpg
+    bio: "This team member prefers to keep an air of mystery about themselves."
+    is_writer: true
+    role: Writer
+
+  annaalexeiev:
+    name: Anna Alexeiev
+    avatar: /assets/images/students/default.jpg
+    bio: "This team member prefers to keep an air of mystery about themselves."
+    is_writer: true
+    role: Writer
+
+  annanemcova:
+    name: Anna Němcová
+    avatar: /assets/images/students/default.jpg
+    bio: "This team member prefers to keep an air of mystery about themselves."
+    is_writer: true
+    role: Writer
+
   anonymouswriters:
     name: Anonymous Writers
     avatar: /assets/images/students/default.jpg

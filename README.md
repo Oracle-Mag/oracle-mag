@@ -74,7 +74,7 @@ Go to `_pages/full-issues.html` and paste in the Canva embed for the new magazin
 - [ ] Make the search bar a bit wider
 - [ ] Make search bar results theme line up with rest of site
 - [x] Minify CSS
-- [ ] Have minified versions of article images be loaded on the /articles page to increase load speed
+- [ ] Have minified versions of article images be loaded on the /articles page to increase load speed, and keep the high-quality ones for the actual article pages
 
 ### Technical Difficulties?
 
