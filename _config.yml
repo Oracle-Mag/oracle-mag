@@ -2,7 +2,7 @@
 name: "The Oracle"
 description: "Park Lane International School's official student magazine."
 favicon: "assets/newfavicon.ico"
-baseurl: "oracle-mag"
+baseurl: ""
 disqus: "oraclemag"
 email: "info@oraclemag.org"
 # in case we ever want to set up some mailing...
@@ -232,7 +232,7 @@ highlighter: rouge
 
 # Paginate
 paginate: 10
-paginate_path: "/oracle-mag/articles/page:num/"
+paginate_path: "/articles/page:num/"
 
 # Exclude metadata and development time dependencies (like Grunt plugins)
 exclude:
