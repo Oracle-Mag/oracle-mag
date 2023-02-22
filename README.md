@@ -1,5 +1,7 @@
 # PLIS Oracle Magazine
 
+*Note: due to writer inactivity, this project is temporarily offline. The `oraclemag.org` domain has not been renewed, and so while the source code is accurate, the corresponding website cannot be viewed anywhere.*
+
 Source code for the [website](https://wowthemesnet.github.io/mundana-theme-jekyll/) of the official magazine of Park Lane International school, built with Jekyll and the Mundana theme.
 
 ### Contributing
