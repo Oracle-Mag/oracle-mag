@@ -13,218 +13,218 @@ permalink: /:title/
 
 # Plugins
 plugins:
-  - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-paginate
-  - jekyll-seo-tag
+    - jekyll-feed
+    - jekyll-sitemap
+    - jekyll-paginate
+    - jekyll-seo-tag
 
 # author names and ids should match up with their individual HTML page metadata/title
 authors:
-  ninafortikova:
-    name: Nina Fořtíková
-    avatar: /assets/images/students/NinaF.jpeg
-    bio: "Hi, my name is Nina and together with the rest of the writers, editors, media team and designers we decided to start this magazine as we felt like that was missing at our school. As an occasional writer, besides editing, I will write about new technologies that don’t receive as much coverage in mainstream media although they definitely should."
-    is_writer: true
-    role: Chief Editor
+    ninafortikova:
+        name: Nina Fořtíková
+        avatar: /oracle-mag/assets/images/students/NinaF.jpeg
+        bio: "Hi, my name is Nina and together with the rest of the writers, editors, media team and designers we decided to start this magazine as we felt like that was missing at our school. As an occasional writer, besides editing, I will write about new technologies that don’t receive as much coverage in mainstream media although they definitely should."
+        is_writer: true
+        role: Chief Editor
 
-  charlottecomstock:
-    name: Charlotte Comstock
-    avatar: /assets/images/students/CharlotteC.jpeg
-    bio: "Hi, my name’s Charlotte, and together with Nina we are the editors of this magazine, but I also love writing articles too. I’m in Year 13, and I love telling stories that matter. Whether that’s about a big issue that affects us all, justice for those who don’t get it, or stories that can help you personally. I also love reading, coffee (I drink way too much of it), and travel — so expect to see more of this from me. "
-    is_writer: true
-    role: Chief Editor
+    charlottecomstock:
+        name: Charlotte Comstock
+        avatar: /oracle-mag/assets/images/students/CharlotteC.jpeg
+        bio: "Hi, my name’s Charlotte, and together with Nina we are the editors of this magazine, but I also love writing articles too. I’m in Year 13, and I love telling stories that matter. Whether that’s about a big issue that affects us all, justice for those who don’t get it, or stories that can help you personally. I also love reading, coffee (I drink way too much of it), and travel — so expect to see more of this from me. "
+        is_writer: true
+        role: Chief Editor
 
-  ameliebelcher:
-    name: Amelie Belcher
-    avatar: /assets/images/students/AmelieB.jpeg
-    bio: "I’m Amelie, I’m a writer and will write about any topic which seems interesting and important at the time, ranging from art and movies, to science and recipes."
-    is_writer: true
-    role: Writer
+    ameliebelcher:
+        name: Amelie Belcher
+        avatar: /oracle-mag/assets/images/students/AmelieB.jpeg
+        bio: "I’m Amelie, I’m a writer and will write about any topic which seems interesting and important at the time, ranging from art and movies, to science and recipes."
+        is_writer: true
+        role: Writer
 
-  andreafriedrichova:
-    name: Andrea Friedrichová
-    avatar: /assets/images/students/AndreaF.jpeg
-    bio: "Hi, my name is Andie. I am a writer for our new magazine. I focus on writing articles about topics I find interesting, these can include serious topics such as human rights, but also fun topics such as the top popular songs of the month. "
-    is_writer: true
-    role: Writer
+    andreafriedrichova:
+        name: Andrea Friedrichová
+        avatar: /oracle-mag/assets/images/students/AndreaF.jpeg
+        bio: "Hi, my name is Andie. I am a writer for our new magazine. I focus on writing articles about topics I find interesting, these can include serious topics such as human rights, but also fun topics such as the top popular songs of the month. "
+        is_writer: true
+        role: Writer
 
-  bettybayerova:
-    name: Betty Bayerová
-    avatar: /assets/images/students/BettyB.jpeg
-    bio: "Hi, I’m Betty and I am in year 13. As a writer for this magazine, I am interested in news from science, short stories and art."
-    is_writer: true
-    role: Writer
+    bettybayerova:
+        name: Betty Bayerová
+        avatar: /oracle-mag/assets/images/students/BettyB.jpeg
+        bio: "Hi, I’m Betty and I am in year 13. As a writer for this magazine, I am interested in news from science, short stories and art."
+        is_writer: true
+        role: Writer
 
-  origoldstein:
-    name: Ori Goldstein
-    avatar: /assets/images/students/OriG.jpeg
-    bio: "Hi, my name is Ori, I am a Year 13 student and my main subjects of interest are the sciences. I enjoy hearing about other people’s perspectives and how they differ from mine."
-    is_writer: true
-    role: Writer
+    origoldstein:
+        name: Ori Goldstein
+        avatar: /oracle-mag/assets/images/students/OriG.jpeg
+        bio: "Hi, my name is Ori, I am a Year 13 student and my main subjects of interest are the sciences. I enjoy hearing about other people’s perspectives and how they differ from mine."
+        is_writer: true
+        role: Writer
 
-  stutichhabra:
-    name: Stuti Chhabra
-    avatar: /assets/images/students/StutiCh.jpeg
-    bio: "Hi, I’m Stuti, I’m in Year 13 and I am a writer and a part of the media team for this magazine. I will be writing about crime cases, psychology, news and more. Along with the rest of my media team, I’m also in charge of setting up interviews, handling the social media accounts and creating engaging content for our followers. "
-    is_writer: true
-    role: Writer · Media Team Lead
+    stutichhabra:
+        name: Stuti Chhabra
+        avatar: /oracle-mag/assets/images/students/StutiCh.jpeg
+        bio: "Hi, I’m Stuti, I’m in Year 13 and I am a writer and a part of the media team for this magazine. I will be writing about crime cases, psychology, news and more. Along with the rest of my media team, I’m also in charge of setting up interviews, handling the social media accounts and creating engaging content for our followers. "
+        is_writer: true
+        role: Writer · Media Team Lead
 
-  juliastogel:
-    name: Julia Stogel
-    avatar: /assets/images/students/JuliaS.jpeg
-    bio: "Hi, I’m Julia and I’m a Year 13 student. I am a writer for the magazine, and I think that what I write will vary from time to time."
-    is_writer: true
-    role: Writer
+    juliastogel:
+        name: Julia Stogel
+        avatar: /oracle-mag/assets/images/students/JuliaS.jpeg
+        bio: "Hi, I’m Julia and I’m a Year 13 student. I am a writer for the magazine, and I think that what I write will vary from time to time."
+        is_writer: true
+        role: Writer
 
-  josefinacejkova:
-    name: Josefína Čejková
-    avatar: /assets/images/students/default.jpg
-    bio: "Hi, I’m Josefina, a Year 13 student happy to be writing for this magazine!"
-    is_writer: true
-    role: Writer
+    josefinacejkova:
+        name: Josefína Čejková
+        avatar: /oracle-mag/assets/images/students/default.jpg
+        bio: "Hi, I’m Josefina, a Year 13 student happy to be writing for this magazine!"
+        is_writer: true
+        role: Writer
 
-  magdalenahavlikova:
-    name: Magdalena Havlíková
-    avatar: /assets/images/students/default.jpg
-    bio: "Hi, I’m Maggie, a Year 13 student here to share advice with you through the Oracle!"
-    is_writer: true
-    role: Writer
-    
-  saradejdarova:
-    name: Sára Dejdárová
-    avatar: /assets/images/students/default.jpg
-    bio: "This team member prefers to keep an air of mystery about themselves."
-    is_writer: true
-    role: Writer
-    
-  berenikanetikova:
-    name: Berenika Netíková
-    avatar: /assets/images/students/berenika.jpg
-    bio: "Hey:)! My name is Berenika and I'm a Y12 student with interest in plants, spirituality, and self-improvement. I will be writing about something regarding plants for every magazine."
-    is_writer: true
-    role: Writer
+    magdalenahavlikova:
+        name: Magdalena Havlíková
+        avatar: /oracle-mag/assets/images/students/default.jpg
+        bio: "Hi, I’m Maggie, a Year 13 student here to share advice with you through the Oracle!"
+        is_writer: true
+        role: Writer
 
-  evaslesarenko:
-    name: Eva Slesarenko
-    avatar: /assets/images/students/default.jpg
-    bio: "This team member prefers to keep an air of mystery about themselves."
-    is_writer: true
-    role: Writer
+    saradejdarova:
+        name: Sára Dejdárová
+        avatar: /oracle-mag/assets/images/students/default.jpg
+        bio: "This team member prefers to keep an air of mystery about themselves."
+        is_writer: true
+        role: Writer
 
-  nathalievondrackova:
-    name: Nathálie Vondráčková
-    avatar: /assets/images/students/default.jpg
-    bio: "This team member prefers to keep an air of mystery about themselves."
-    is_writer: true
-    role: Writer
+    berenikanetikova:
+        name: Berenika Netíková
+        avatar: /oracle-mag/assets/images/students/berenika.jpg
+        bio: "Hey:)! My name is Berenika and I'm a Y12 student with interest in plants, spirituality, and self-improvement. I will be writing about something regarding plants for every magazine."
+        is_writer: true
+        role: Writer
 
-  ellamoskalievova:
-    name: Ella Moskalievová
-    avatar: /assets/images/students/default.jpg
-    bio: "This team member prefers to keep an air of mystery about themselves."
-    is_writer: true
-    role: Writer
+    evaslesarenko:
+        name: Eva Slesarenko
+        avatar: /oracle-mag/assets/images/students/default.jpg
+        bio: "This team member prefers to keep an air of mystery about themselves."
+        is_writer: true
+        role: Writer
 
-  ineswerfeli:
-    name: Ines Werfeli
-    avatar: /assets/images/students/default.jpg
-    bio: "This team member prefers to keep an air of mystery about themselves."
-    is_writer: true
-    role: Writer
+    nathalievondrackova:
+        name: Nathálie Vondráčková
+        avatar: /oracle-mag/assets/images/students/default.jpg
+        bio: "This team member prefers to keep an air of mystery about themselves."
+        is_writer: true
+        role: Writer
 
-  evaeroshenko:
-    name: Eva Eroshenko
-    avatar: /assets/images/students/default.jpg
-    bio: "This team member prefers to keep an air of mystery about themselves."
-    is_writer: true
-    role: Writer
+    ellamoskalievova:
+        name: Ella Moskalievová
+        avatar: /oracle-mag/assets/images/students/default.jpg
+        bio: "This team member prefers to keep an air of mystery about themselves."
+        is_writer: true
+        role: Writer
 
-  annaalexeiev:
-    name: Anna Alexeiev
-    avatar: /assets/images/students/default.jpg
-    bio: "This team member prefers to keep an air of mystery about themselves."
-    is_writer: true
-    role: Writer
+    ineswerfeli:
+        name: Ines Werfeli
+        avatar: /oracle-mag/assets/images/students/default.jpg
+        bio: "This team member prefers to keep an air of mystery about themselves."
+        is_writer: true
+        role: Writer
 
-  annanemcova:
-    name: Anna Němcová
-    avatar: /assets/images/students/default.jpg
-    bio: "This team member prefers to keep an air of mystery about themselves."
-    is_writer: true
-    role: Writer
+    evaeroshenko:
+        name: Eva Eroshenko
+        avatar: /oracle-mag/assets/images/students/default.jpg
+        bio: "This team member prefers to keep an air of mystery about themselves."
+        is_writer: true
+        role: Writer
 
-  nataliechorvatova:
-    name: Natálie Chorvátová
-    avatar: /assets/images/students/default.jpg
-    bio: "This team member prefers to keep an air of mystery about themselves."
-    is_writer: true
-    role: Writer
+    annaalexeiev:
+        name: Anna Alexeiev
+        avatar: /oracle-mag/assets/images/students/default.jpg
+        bio: "This team member prefers to keep an air of mystery about themselves."
+        is_writer: true
+        role: Writer
 
-  anonymouswriters:
-    name: Anonymous Writers
-    avatar: /assets/images/students/default.jpg
-    bio: "Writers who would rather not be named."
-    is_writer: true
-    role: Writer
+    annanemcova:
+        name: Anna Němcová
+        avatar: /oracle-mag/assets/images/students/default.jpg
+        bio: "This team member prefers to keep an air of mystery about themselves."
+        is_writer: true
+        role: Writer
+
+    nataliechorvatova:
+        name: Natálie Chorvátová
+        avatar: /oracle-mag/assets/images/students/default.jpg
+        bio: "This team member prefers to keep an air of mystery about themselves."
+        is_writer: true
+        role: Writer
+
+    anonymouswriters:
+        name: Anonymous Writers
+        avatar: /oracle-mag/assets/images/students/default.jpg
+        bio: "Writers who would rather not be named."
+        is_writer: true
+        role: Writer
 
 other_team_members:
-  simonilincev:
-    name: Simon Ilincev
-    avatar: /assets/images/students/simon_ilincev.jpeg
-    bio: "I coordinated the building of this website, and do the same for others around the web in my free time. Let me know what you think!"
-    is_writer: false
-    role: Technical Lead
+    simonilincev:
+        name: Simon Ilincev
+        avatar: /oracle-mag/assets/images/students/simon_ilincev.jpeg
+        bio: "I coordinated the building of this website, and do the same for others around the web in my free time. Let me know what you think!"
+        is_writer: false
+        role: Technical Lead
 
-  laurakarasova:
-    name: Laura Karasová
-    avatar: /assets/images/students/LauraK.jpeg
-    bio: "Hi, I hope you're enjoying The Oracle. My name is Laura, I am a Year 12 student and I collaborate with Simon and our Magazine team in designing all given content and presenting the works of our talented authors in the most engaging manners possible, both in prints and on our website."
-    is_writer: false
-    role: Website Designer · Magazine Designer
+    laurakarasova:
+        name: Laura Karasová
+        avatar: /oracle-mag/assets/images/students/LauraK.jpeg
+        bio: "Hi, I hope you're enjoying The Oracle. My name is Laura, I am a Year 12 student and I collaborate with Simon and our Magazine team in designing all given content and presenting the works of our talented authors in the most engaging manners possible, both in prints and on our website."
+        is_writer: false
+        role: Website Designer · Magazine Designer
 
-  ellamoskalievova:
-    name: Ella Moskelievová
-    avatar: /assets/images/students/EllaM.jpeg
-    bio: "Hello, my name is Ella. I am a new student at Parklane currently in Year 13. I am a writer with a focus on the topics of health and sport which are both very close to me and about any kind of entertainment, especially food related, because I love food :) I am a part of the media team as well, taking care of social media, specifically the Instagram account"
-    is_writer: true
-    role: Instagram Account Manager
+    ellamoskalievova:
+        name: Ella Moskelievová
+        avatar: /oracle-mag/assets/images/students/EllaM.jpeg
+        bio: "Hello, my name is Ella. I am a new student at Parklane currently in Year 13. I am a writer with a focus on the topics of health and sport which are both very close to me and about any kind of entertainment, especially food related, because I love food :) I am a part of the media team as well, taking care of social media, specifically the Instagram account"
+        is_writer: true
+        role: Instagram Account Manager
 
-  michaelastejskalova:
-    name: Michaela Stejskalová
-    avatar: /assets/images/students/MichaelaS.jpeg
-    bio: "Hi, I'm Míša, and I am a student in Year 13. Along with the social media team, I will be handling our social media accounts and hopefully be in contact with our readers through those!"
-    is_writer: false
-    role: Media Team Member
+    michaelastejskalova:
+        name: Michaela Stejskalová
+        avatar: /oracle-mag/assets/images/students/MichaelaS.jpeg
+        bio: "Hi, I'm Míša, and I am a student in Year 13. Along with the social media team, I will be handling our social media accounts and hopefully be in contact with our readers through those!"
+        is_writer: false
+        role: Media Team Member
 
-  krystofmoroz:
-    name: Kryštof Moroz
-    avatar: /assets/images/students/default.jpg
-    bio: "This team member prefers to keep an air of mystery about themselves."
-    is_writer: false
-    role: Custom Domain Leader
+    krystofmoroz:
+        name: Kryštof Moroz
+        avatar: /oracle-mag/assets/images/students/default.jpg
+        bio: "This team member prefers to keep an air of mystery about themselves."
+        is_writer: false
+        role: Custom Domain Leader
 
-  kristynamelicharova:
-    name: Kristýna Melicharová
-    avatar: /assets/images/students/default.jpg
-    bio: "This team member prefers to keep an air of mystery about themselves."
-    is_writer: false
-    role: Magazine Designer
-    
+    kristynamelicharova:
+        name: Kristýna Melicharová
+        avatar: /oracle-mag/assets/images/students/default.jpg
+        bio: "This team member prefers to keep an air of mystery about themselves."
+        is_writer: false
+        role: Magazine Designer
+
 # Defaults
 defaults:
-  # all posts
-  - scope:
-      path: "_posts"
-    values:
-      layout: post
-      author: charlottecomstock
-      avatar: /assets/images/students/CharlotteC.jpg
+    # all posts
+    - scope:
+          path: "_posts"
+      values:
+          layout: post
+          author: charlottecomstock
+          avatar: /oracle-mag/assets/images/students/CharlotteC.jpg
 
-  # all pages
-  - scope:
-      path: "_pages"
-    values:
-      layout: page
+    # all pages
+    - scope:
+          path: "_pages"
+      values:
+          layout: page
 
 # Syntax
 markdown: kramdown
@@ -236,11 +236,11 @@ paginate_path: "/articles/page:num/"
 
 # Exclude metadata and development time dependencies (like Grunt plugins)
 exclude:
-  [
-    README.markdown,
-    package.json,
-    grunt.js,
-    Gruntfile.js,
-    Gruntfile.coffee,
-    node_modules,
-  ]
+    [
+        README.markdown,
+        package.json,
+        grunt.js,
+        Gruntfile.js,
+        Gruntfile.coffee,
+        node_modules,
+    ]
